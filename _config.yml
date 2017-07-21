@@ -1,0 +1,13 @@
+defaults:
+  - scope:
+      path: ''
+    values:
+      layout: 'page'
+
+collections:
+  facts:
+    output: false
+  plants:
+    output: true
+
+title: Urban Wild

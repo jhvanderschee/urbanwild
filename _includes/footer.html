@@ -1,0 +1,83 @@
+  <div class="bgimage hidden-xs" id="gallery"><div>
+    <div class="container text-center">
+      <div class="row">
+        <div class="col-xs-12 text-left">
+          <h2 class="post-title editable"># urbanwild</h2>
+        </div> 
+      </div>
+      <div class="row" style="margin: 0; padding: 0;">
+        {% for image in site.data.images.images %}
+          <div class="col-sm-3 col-xs-6" style="padding: 0;"><a href="https://www.instagram.com/monkey_jars/" target="_blank"><img src="{{ image.image }}" style="width: 100%; margin-bottom: 10px;" /></a></div>
+        {% endfor %}
+
+        <div id="instafeed"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+<footer>
+<div class="site-footer2">
+      <div class="container">
+        <div class="row" style="margin: 0">
+        	<div class="col-lg-3 text-left">
+              <h3>Menu</h3>
+              <ul>
+                <li><a href="#top">HOME</a></li>
+                <li><a href="#top">JM PLANTS</a></li>
+                <li><a href="#top">URBAN WILD</a></li>
+                <li><a href="#top">CONTACT</a></li>
+              </ul>
+          </div>
+          <div class="col-lg-3 text-left">
+              <h3>Social</h3>
+              <ul>
+                <li><a href="#top">INSTAGRAM</a></li>
+              </ul>
+          </div>
+          <div class="col-lg-3 text-left">
+              <h3>Contact</h3>
+              <p>INFO@JMPLANTS.NL<br />
+020-123 45 678<br />
++31 (0)6 53 38 12 78<br />
+<br />
+AALSMEERDERWEG 669<br />
+1435 EK RIJSENHOUT<br />
+THE NETHERLANDS</p>
+          </div>
+          <div class="col-lg-3 text-left">
+              <h3>Monkey Jars</h3>
+              &nbsp;&nbsp;&nbsp;&nbsp;<img src="/img/Logo MonkeyJars.png" style="width: 100%; max-width: 100px; opacity: 0.9;" />
+          </div>
+        </div>
+      </div>
+    <div class="footerbar">
+      <div class="container">
+        <div class="row">
+        	<div class="col-lg-12 text-center"><p>Copyright © Urban Wild 2017 &nbsp;&nbsp;•&nbsp;&nbsp; <span class="hidden-xs">Created by <a href="http://supremebeing.amsterdam" target="_blank">Supreme Being 21.3</a> &nbsp;&nbsp;•&nbsp;&nbsp; </span><a href="/privacy">Privacy</a></p></div>
+        </div>
+      </div>
+      </div>
+</div>
+</footer>
+
+</div>
+</div>
+</div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="{{ "/js/combined.js" | prepend: site.baseurl }}"></script>
+    
+    <script>
+    //open external links in a new window
+    function externalLinks() {
+      for(var c = document.getElementsByTagName("a"), a = 0;a < c.length;a++) {
+        var b = c[a];
+        b.getAttribute("href") && b.hostname !== location.hostname && (b.target = "_blank")
+      }
+    }
+    externalLinks();
+    </script>
