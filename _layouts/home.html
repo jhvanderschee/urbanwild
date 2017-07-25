@@ -4,7 +4,7 @@
   {% include head.html %}
 
   <body data-spy="scroll" data-target="#navbar" data-offset="300" class="home" onload="">
-  <div id="splash"><table cellpadding="0" cellspacing="0"><tr><td><img src="/img/logowhite.svg" /></td></tr></table></div>
+  <div id="splash"><table cellpadding="0" cellspacing="0"><tr><td><img src="/img/urbanwildlogo.png" /></td></tr></table></div>
   <div id="nonsplash">
     <div id="innernonsplash">
   <script>document.getElementById('nonsplash').style.display = 'none';</script>
@@ -86,7 +86,15 @@ nihicienis eossit liquis intibus</p>
           {% assign siteplants = site.plants | sort: 'order' %}
           {% for item in siteplants %}
             <div class="col-md-3 col-sm-4 col-xs-6" style="padding: 0 7px; cursor: pointer;" onclick="window.location.href='{{ item.url }}';">
-              <div style="background: white url('{{ item.image }}') center center no-repeat; background-size: contain;">{{ item.title }}</div>
+              <div style="background: white url('{{ item.image }}') center center no-repeat; background-size: contain; width: 100%; padding-top: 95%;"></div>
+                          
+              {{ item.title }}<br />
+
+              &nbsp;
+              {% for subitem in item.variants %}
+                {% if forloop.index == 1 %}{{ forloop.length }} variants{% endif %}
+              {% endfor %}
+              &nbsp;    
             </div>
           {% endfor %}
           </div>
@@ -109,72 +117,7 @@ gebonden door het blad van planten. Dat maakt Urban Wild niet alleen mooi om te 
       </div>
     </div>
 
-    <div class="light" id="jmplants">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-6 col-md-6 text-left"> 
-            <h2 class="post-title" style="margin: 0 0 10px;">JM Plants</h2>
-            <p>Wij zijn... soorten zijn zelfs specifiek gekozen op hun grote capaciteit
-om de lucht in huis gezond te houden. In onze leefomgeving komen veel giftige stoffen voor.</p>
-            <p>Ontmoet de kweker</p>
-          </div>
-          <div class="col-lg-6 col-md-6"> 
-            <img src="/img/portrait.jpg" style="width: 100%;" />
-          </div>
-        </div>
-      </div>
-    </div>
-
-
-
-
-    <div class="light" id="contact">
-      <div class="container">
-        <div class="row">
-            <div class="col-xs-12 text-left">
-                <h2 class="post-title editable">Contact</h2>
-            </div> 
-        </div>
-        <div class="row" style="padding-top: 10px;">
-            <div class="col-lg-3 col-md-3 col-sm-4 text-left ">
-              <div class="contactinfo">
-              <h3>Adres</h3>
-              <p>
-              AALSMEERDERWEG 669<br />
-              1435 EK RIJSENHOUT<br />
-              THE NETHERLANDS</p>
-              </div>
-            </div>
-            <div class="col-lg-9 col-md-9 col-sm-8">                            
-                <div id="map" onclick="window.open('https://www.google.nl/maps/place/Meewisse+VOF+J+M+Plants/@52.2705475,4.716179,17z/data=!3m1!4b1!4m5!3m4!1s0x47c5e75fcb52143f:0x94af0545542deaa0!8m2!3d52.2705475!4d4.7183677');">
-                  <img src="/img/marker.png" />
-                </div>&nbsp;
-            </div>
-        </div>
-        <div class="row" style="padding-top: 10px;">
-            <div class="col-lg-9 col-md-9 col-sm-8">                            
-                <div id="map" onclick="window.open('https://www.google.nl/maps/place/Meewisse+VOF+J+M+Plants/@52.2705475,4.716179,17z/data=!3m1!4b1!4m5!3m4!1s0x47c5e75fcb52143f:0x94af0545542deaa0!8m2!3d52.2705475!4d4.7183677');">
-                  <img src="/img/marker.png" />
-                </div>&nbsp;
-            </div>
-            <div class="col-lg-3 col-md-3 col-sm-4 text-left ">
-              <div class="contactinfo">
-              <h3>Adres</h3>
-              <p>
-              AALSMEERDERWEG 669<br />
-              1435 EK RIJSENHOUT<br />
-              THE NETHERLANDS</p>
-              </div>
-            </div>
-
-        </div>
-      </div>
-    </div>
-
-
-
-
-   
+  
 
     {% include footer.html %}
 </div>

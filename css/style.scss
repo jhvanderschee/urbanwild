@@ -19,16 +19,17 @@ html * {max-height:1000000px;}
 
 
 html {overflow-y: scroll; overflow-x: hidden; height: 100%;}
-body {color: #152623; background: #f8f9f9; font-family: 'Orator', sans-serif; font-size: 21px; line-height: 1.5em;}
+body {color: #152623; background: #f8f9f9; font-family: 'Orator', sans-serif; font-size: 18px; line-height: 1.5em;}
 
 #splash {display: none; position: fixed; height: 100%; width: 100%; background: #f8f9f9; z-index: 99; cursor: pointer;}
 #splash table {height: 100%; width: 100%;}
 #splash td {vertical-align: middle; text-align: center;}
-#splash img {width: 75%; max-width: 600px; margin-top: calc(9vh + 4vw);}
-#nonsplash {background: #f8f9f9 url('/img/block-clean20.png') center top; background-size: 300px auto;}
+#splash img {width: 75%; max-width: 600px;}
+#splash, #nonsplash {background: #f8f9f9 url('/img/block-clean20.png') center top; background-size: 300px auto;}
 #innernonsplash {}
 
 .intro {padding-top: 113px;}
+#myCarousel {background: #dedede;}
 #myCarousel .item {width: 100%; text-align: center; height: 550px;}
 #myCarousel .item img {margin: 0 auto;}
 
@@ -45,19 +46,8 @@ body {color: #152623; background: #f8f9f9; font-family: 'Orator', sans-serif; fo
 .contactinfo a, .light p a {color: #231F20;}
 .light .post-content {}
 .light .post-content p {color: #231F20;}
-#catering.light a:not(.blog) {white-space: nowrap; color: #91191e;}
-.light p a.red {color: #91191e;}
 
-.light#over {font-size: 21px; line-height: 1.5em;}
-.light#weetjes {font-size: 17px; line-height: 1.5em; padding-bottom: 0;}
-.light#collectie, #myCarousel {margin-bottom: 1.5em;}
 
-.readmore {display: inline-block; text-align: center; width: 282px; padding: 7px 71px 13px; font-family: 'Dirty Headline'; text-transform: uppercase; text-decoration: none; 
-background: url('/img/tapekaart.png') center center no-repeat; font-size: 23px; background-size: contain; position: relative; right: 40px; top: 10px;
- -ms-transform: rotate(-2deg); -webkit-transform: rotate(-2deg); transform: rotate(-2deg);
-}
-.readmore:hover {color: #3f4717;}
-.readmore:focus {text-decoration: none!important;}
 
 .bgimage > div {padding: 60px 0;}
 .monkeyjarweetjes {width: 100%; position: relative; bottom: 80px;}
@@ -73,11 +63,11 @@ footer li, footer ul {padding: 0; margin: 0;}
 footer li {list-style: none;}
 footer p {margin: 0;}
 footer a, footer a:hover, footer a:focus {color: #231F20;}
-.site-footer2 {background: url('/img/footer.png') center top repeat; background-size: auto 300px; text-transform: uppercase; font-size: 15px!important; padding: 0!important; 
-  max-height: 99999px;}
+.site-footer2 {background: url('/img/footer.png') center top repeat; background-size: auto 300px; text-transform: uppercase; font-size: 16px!important; padding: 0!important; 
+  max-height: 99999px; line-height: 1.5em;}
 .site-footer2 a, .site-footer2 a:hover, .site-footer2 a:focus {color: #231F20; font-weight: normal; text-decoration: none;}
 .site-footer2 > div:nth-child(1) {padding: 10px 0 35px;}
-.footerbar {color: rgba(255,255,255,0.7); height: 42px; line-height: 40px; background: #829573;}
+.footerbar {color: rgba(255,255,255,0.7); height: 42px; line-height: 40px; font-size: 13px; background: #829573;}
 .footerbar a {color: rgba(255,255,255,0.7)!important;}
 
 .textrow {min-height: 46px; line-height: 1.4em;  text-transform: uppercase; text-align: center; padding: 13px 15px; text-transform: uppercase; font-size: 48px; text-shadow: 0px 0px 10px rgba(221,209,193,0.5);}
@@ -87,7 +77,7 @@ footer a, footer a:hover, footer a:focus {color: #231F20;}
 .absright > * > img {display: block;}
 
 
-.navbar {border-radius: 0px!important; font-size: 21px; line-height: 1.4em; height: 113px; box-shadow: 0px 0px 5px rgba(0,0,0,0.15);}
+.navbar {border-radius: 0px!important; font-size: 19px; line-height: 1.4em; height: 113px; box-shadow: 0px 0px 5px rgba(0,0,0,0.15);}
 .navbar > div {height: 132px;}
 .navbar-default {z-index: 2; position: absolute; width: 100%; background: #f8f9f9 url('/img/block-clean20.png') center top; background-size: 300px auto; border: 0; text-transform: uppercase;}
 .navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover,
@@ -114,12 +104,12 @@ footer a, footer a:hover, footer a:focus {color: #231F20;}
 .navmenu img {width: 115px; margin: 0px 30px;}
 .nav>li>a {padding: 10px 30px;}
 .nav>li>a#logo {position: relative; bottom: 20px;}
-.nav>li.active>a::before {content: ""; width: 160px; height: 60px; margin: -30px 0 0 -30px; position: absolute; z-index: -1; background: url('/img/vlek.png') center center no-repeat; background-size: contain;}
+.nav>li.active>a::before {content: ""; width: 150px; height: 60px; margin: -30px 0 0 -30px; position: absolute; z-index: -1; background: url('/img/vlek.png') center center no-repeat; background-size: contain;}
 .nav>li.active>a#logo::before {content: none;}
 .nav>li>a>img {width: 210px;position: relative; bottom: 0px; margin: 0 15px;}
 .navbar-default .navbar-nav>li>a:hover,
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {color: #3f4717; background: transparent;}
-
+#navbar {position: relative; left: 30px;}
 
 .low_height.page-template .navbar-default, 
 .low_height .navbar-default.attop,
@@ -141,17 +131,17 @@ a {text-decoration: underline;}
 a:hover {text-decoration: none;}
 .post-content {font-weight: normal;}
 .post-header span {margin-bottom: 10px; display: inline-block;}
-.btn {font-size: 16px; line-height: 1.8em; color: #e6e6e1; text-decoration: none; padding-left: 25px; padding-right: 25px; border-radius: 0; border: 0; text-transform: uppercase; font-family: 'BrandonGrotesque-Bold';
+.btn {font-size: 16px; line-height: 1.8em; background: #876550; color: #e6e6e1; text-decoration: none; padding: 5px 25px 7px; border-radius: 0; border: 0; text-transform: uppercase; 
     -webkit-transition: all 0.2s ease;                  
     -moz-transition: all 0.2s ease;                 
     -o-transition: all 0.2s ease;   
     -ms-transition: all 0.2s ease;          
     transition: all 0.2s ease;
 }
-.btn-default:active:hover, .btn-default:focus, .btn-default:hover, .btn-default {opacity: 1; border: 1px solid #231F20!important; background: transparent; color: #231F20; -webkit-box-shadow: none; box-shadow: none;}
+.btn-default:active:hover, .btn-default:focus, .btn-default:hover, .btn-default {opacity: 1; border: 1px solid #231F20!important; background: #876550; color: #231F20; -webkit-box-shadow: none; box-shadow: none;}
 .btn-default:active:hover, .btn-default:focus, .btn-default:hover {background: #231F20; border-color: #231F20!important;}
 .btn-primary:active:hover, .btn-primary:focus, .btn-primary:hover, .btn-primary {opacity: 1; border: 1px solid #e6e6e1!important; background: #e6e6e1; color: #231F20;; -webkit-box-shadow: none; box-shadow: none;}
-.btn-primary:active:hover, .btn-primary:focus, .btn-primary:hover {background: transparent; color: #e6e6e1!important; border-color: #e6e6e1!important;}
+.btn-primary:active:hover, .btn-primary:focus, .btn-primary:hover {background: #876550; color: #e6e6e1!important; border-color: #e6e6e1!important;}
 .btn-default:active:hover, .btn-default:hover, .btn-primary:active:hover, .btn-primary:hover {opacity: 1;}
 .btn:active:hover, .btn:focus, .btn:hover {color: #e6e6e1;}
 
@@ -163,6 +153,9 @@ a:hover {text-decoration: none;}
 form {padding-right: 30px; clear: both;}
 label {font-weight: normal;}
 .post-content img, .post-content iframe {max-width: 100%;}
+.bigplant {max-width: calc(100% - 1px); display: block; margin-right: 1px;}
+.smallplant {max-width: calc(25% - 4px); display: block; float: left; margin: 5px 5px 0 0;}
+.smallplant:nth-child(5) {margin-right: 0;}
 
 #lightbox {display: none; z-index: 99; position: fixed; top: 0; left: 0; text-align: center;}
 #lightbox #image {z-index: 0; display: inline; max-height: 95vh; max-width: 95vw; border: 1px solid #231F20;}
@@ -174,8 +167,8 @@ label {font-weight: normal;}
 #controls a:hover, #controls a:active {color: silver;}
 #closebutton, #prevbutton, #nextbutton {cursor: pointer; }
 
-
-
+#gallery {overflow: auto;}
+#wrapall {overflow: auto;}
 #wrapall, .navbar > div, #lightbox {background: rgba(230,230,225,0);}
 
 @media all and (max-width: 1700px) {

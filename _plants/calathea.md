@@ -1,5 +1,19 @@
 ---
 title: Calathea
+image: /img/slide.jpg
+variants:
+  - title: Variant 1
+    image: /img/slide.jpg
+    description: 'Lorem ipsum...'
+  - title: Variant 2
+    image: /img/slide.jpg
+    description: 'Lorem ipsum...'
+  - title: Variant 3
+    image: /img/slide.jpg
+    description: 'Lorem ipsum...'
+  - title: Variant 4
+    image: /img/slide.jpg
+    description: 'Lorem ipsum...'
 order: 1
 ---
 

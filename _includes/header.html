@@ -6,7 +6,7 @@
 
 
 <div class="navmenu navmenu-default navmenu-fixed-left offcanvas">
-      <img src="/img/logowhite.svg" onclick="window.location.href='/';">
+      <img src="/img/urbanwildlogo.png" onclick="window.location.href='/';">
       <ul class="nav navmenu-nav">
               <li><a href="/#over">Over</a></li>
               <li><a href="/#verzorging">Verzorging</a></li>
@@ -29,13 +29,13 @@
           </div>
           <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-              <li><a href="#top">Home</a></li>
-              <li><a href="#over">Over</a></li>
-              <li><a href="#collectie">Collectie</a></li>
-              <li><a href="#top" id="logo"><img src="/img/urbanwildlogo.png" /></a></li>
+              <li><a href="{% if page.layout == 'home' %}#top{% else %}/{% endif %}">Home</a></li>
+              <li><a href="{% if page.layout == 'home' %}{% else %}/{% endif %}#over">Over</a></li>
+              <li><a href="{% if page.layout == 'home' %}{% else %}/{% endif %}#collectie">Collectie</a></li>
+              <li><a href="{% if page.layout == 'home' %}{% else %}/{% endif %}#top" id="logo"><img src="/img/urbanwildlogo.png" /></a></li>
               <li><a href="#luchtzuiverend">Luchtzuiverend</a></li>
-              <li><a href="#jmplants">JM Plants</a></li>
-              <li><a href="#contact">Contact</a></li>
+              <li><a href="/jmplants">JM Plants</a></li>
+              <li><a href="/contact">Contact</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div><!--/.container -->

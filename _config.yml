@@ -3,6 +3,11 @@ defaults:
       path: ''
     values:
       layout: 'page'
+  - scope:
+      path: ''
+      type: "plants"
+    values:
+      layout: 'plant'
 
 collections:
   facts:
