@@ -1,7 +1,9 @@
-  <div class="bgimage hidden-xs" id="gallery"><div>
+
+<div class="bgimage hidden-xs" id="gallery"><div>
     <div class="container text-center">
       <div class="row">
         <div class="col-xs-12 text-left">
+          <div id="instafeed">link naar instagram</div>
           <h2 class="post-title editable"># urbanwild</h2>
         </div> 
       </div>
@@ -9,8 +11,6 @@
         {% for image in site.data.images.images %}
           <div class="col-sm-3 col-xs-6" style="padding: 0;"><a href="https://www.instagram.com/monkey_jars/" target="_blank"><img src="{{ image.image }}" style="width: 100%; margin-bottom: 10px;" /></a></div>
         {% endfor %}
-
-        <div id="instafeed"></div>
         </div>
       </div>
     </div>

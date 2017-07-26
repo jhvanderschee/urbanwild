@@ -24,7 +24,7 @@ body {color: #152623; background: #f8f9f9; font-family: 'Orator', sans-serif; fo
 #splash {display: none; position: fixed; height: 100%; width: 100%; background: #f8f9f9; z-index: 99; cursor: pointer;}
 #splash table {height: 100%; width: 100%;}
 #splash td {vertical-align: middle; text-align: center;}
-#splash img {width: 75%; max-width: 600px;}
+#splash img {width: 75%; max-width: 600px; margin-top: -20px;}
 #splash, #nonsplash {background: #f8f9f9 url('/img/block-clean20.png') center top; background-size: 300px auto;}
 #innernonsplash {}
 
@@ -63,12 +63,20 @@ footer li, footer ul {padding: 0; margin: 0;}
 footer li {list-style: none;}
 footer p {margin: 0;}
 footer a, footer a:hover, footer a:focus {color: #231F20;}
-.site-footer2 {background: url('/img/footer.png') center top repeat; background-size: auto 300px; text-transform: uppercase; font-size: 16px!important; padding: 0!important; 
+.site-footer2 {background: url('/img/footer.png') center top repeat; background-size: auto 300px; text-transform: uppercase; font-size: 15px!important; padding: 0!important; 
   max-height: 99999px; line-height: 1.5em;}
 .site-footer2 a, .site-footer2 a:hover, .site-footer2 a:focus {color: #231F20; font-weight: normal; text-decoration: none;}
 .site-footer2 > div:nth-child(1) {padding: 10px 0 35px;}
-.footerbar {color: rgba(255,255,255,0.7); height: 42px; line-height: 40px; font-size: 13px; background: #829573;}
+.footerbar {color: rgba(255,255,255,0.7); height: 42px; line-height: 40px; font-size: 13px; background: #829573; margin-top: 10px;}
 .footerbar a {color: rgba(255,255,255,0.7)!important;}
+#instafeed {position: absolute; margin-top: 43px; 
+    -ms-transform: rotate(90deg); /* IE 9 */
+    -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
+    transform: rotate(90deg);
+    right: 0;
+    margin-right: -110px;
+    margin-top: 165px;
+}
 
 .textrow {min-height: 46px; line-height: 1.4em;  text-transform: uppercase; text-align: center; padding: 13px 15px; text-transform: uppercase; font-size: 48px; text-shadow: 0px 0px 10px rgba(221,209,193,0.5);}
 
