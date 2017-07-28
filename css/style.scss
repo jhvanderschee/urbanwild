@@ -49,17 +49,17 @@ body {color: #152623; background: #f8f9f9; font-family: 'Orator', sans-serif; fo
 #myCarousel .item .container a.btn {padding-top: 10px; padding-bottom: 10px;}
 #myCarousel .item .jmplantslogo {width: 150px; position: absolute; right: 0; top: 0; margin-top: -100px; margin-right: -150px;}
 .carousel-indicators li {
-  opacity: 0.85; margin: 2px; width: 13px; height: 13px; border-color: #7c9667;
+  opacity: 0.85; margin: 2px; width: 13px; height: 13px; border-color: #613812;
   border-radius: 0;
     -ms-transform: rotate(45deg); /* IE 9 */
     -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
     transform: rotate(45deg);
 }
-.carousel-indicators li.active {margin: 2px; width: 13px; height: 13px; background-color: #7c9667;}
+.carousel-indicators li.active {margin: 2px; width: 13px; height: 13px; background-color: #613812;}
 
 .light {text-align: center; padding: 30px 0 0; color: #231F20;}
 .light ~ .light {padding-top: 0;}
-.contactinfo a, .light p a {color: #231F20;}
+.square a, .light p a {color: #231F20;}
 .light .post-content {}
 .light .post-content p {color: #231F20;}
 
@@ -72,10 +72,18 @@ body {color: #152623; background: #f8f9f9; font-family: 'Orator', sans-serif; fo
 .bgimage > div {padding: 60px 0;}
 .monkeyjarweetjes {width: 100%; position: relative; bottom: 80px;}
 
-.contactinfo {padding-bottom: 20px; font-size: 17px; line-height: 1.5em; background: url('/img/block-clean.png') center center no-repeat; background-size: cover; height: 270px;}
-.contactinfo h3 {margin-top:0;}
+.square {padding-bottom: 20px; font-size: 17px; line-height: 1.5em; background: url('/img/block-clean.png') center center no-repeat; background-size: cover; height: 270px;}
+.square > div {white-space: nowrap;position: absolute; display: inline-block; left: 50%; top: 50%; 
+    -ms-transform: translate(-50%,-50%); /* IE 9 */
+    -webkit-transform: translate(-50%,-50%); /* Chrome, Safari, Opera */
+    transform: translate(-50%,-50%);
+}
+.square h3 {margin:0 0 5px;}
+.square p {margin-bottom: 5px;}
+.square h3 ~ p {margin-top: 20px; margin-bottom: 5px;}
+
 b, strong {font-weight: normal;}
-#map {border: 0px solid #231F20; cursor: pointer; height: 335px; background: url('/img/map.jpg') center center no-repeat; background-size: cover; margin-bottom: 0px;}
+#map {border: 0px solid #231F20; cursor: pointer; height: 335px; background: url('/img/map.png') center center no-repeat; background-size: cover; margin-bottom: 0px;}
 #map img {margin-top: 60px; height: 120px; opacity: 0.85;}
 
 footer {line-height: 20px;}
@@ -220,6 +228,9 @@ label {font-weight: normal;}
 #gallery {overflow: auto; padding-bottom: 40px;}
 #wrapall {overflow: auto;}
 #wrapall, .navbar > div, #lightbox {background: rgba(230,230,225,0);}
+
+
+
 
 @media all and (max-width: 1700px) {
 .light.extras:before {left: 50%; margin-left: -850px;}
