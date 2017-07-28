@@ -1,5 +1,5 @@
 ---
 title: Verzorging
-layout: instructions
+layout: verzorging
 ---
 

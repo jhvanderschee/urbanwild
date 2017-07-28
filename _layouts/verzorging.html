@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body id="body" class="page-template post" onload="">
+    <div id="nonsplash">
+    <div id="innernonsplash">
+	  {% include header.html %}
+      <div class="container italic"><div class="row"><div class="col-xs-12"><a href="/#collectie" class="backlink">• Terug</a></div></div></div>
+
+    <div class="light">
+      <div class="container">
+
+        <div class="row">
+          {% for instruction in site.instructions %}
+            <div class="col-lg-3 col-md-4 col-sm-5" style="max-width: 300px; padding: 0;">
+              <div style="">
+                <div style=""></div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-8 col-sm-7 text-left" style="padding: 0 15px; margin-top: -30px;">
+              <br class="hidden-xs" /><br class="hidden-xs" />
+                <h3>{{ instruction.title }}</h3>
+                {{ instruction.content }}
+            </div>
+
+            {% if forloop.index == 2 or forloop.index == 4 or forloop.index == 6 or forloop.index == 8 %}
+            <div style="clear: both;"></div>
+            {% else %}
+            <div style="clear: both;" class="visible-sm visible-md"></div>
+            {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+
+
+    {% include footer.html %}
+      </div>
+    </div>
+  </body>
+
+</html>
