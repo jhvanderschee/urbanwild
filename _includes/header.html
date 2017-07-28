@@ -34,8 +34,8 @@
               <li><a href="{% if page.layout == 'home' %}{% else %}/{% endif %}#collectie">Collectie</a></li>
               <li><a href="{% if page.layout == 'home' %}{% else %}/{% endif %}#top" id="logo"><img src="/img/urbanwildlogo.png" /></a></li>
               <li><a href="#luchtzuiverend">Luchtzuiverend</a></li>
-              <li><a href="/jmplants">JM Plants</a></li>
-              <li><a href="/contact">Contact</a></li>
+              <li {% if page.layout == 'jmplants' %}class="active"{% endif %}><a href="/jmplants">JM Plants</a></li>
+              <li {% if page.layout == 'contact' %}class="active"{% endif %}><a href="/contact">Contact</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div><!--/.container -->

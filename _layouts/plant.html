@@ -3,13 +3,14 @@
 
   {% include head.html %}
 
-  <body id="body" class="page-template post" onload="">
+  <body id="body" class="{{ page.layout }}" onload="">
   <div id="nonsplash">
     <div id="innernonsplash">
+    <div id="popup" onclick="window.location.href='/verzorging';"><div id="closepopup">x</div>LEES HIER<br />ALLES OVER DE<br />VERZORGINGSTIPS</div>
 
 	  {% include header.html %}
 
-
+                <div class="container italic"><div class="row"><div class="col-xs-12"><a href="/" class="backlink">• Terug</a></div></div></div>
     <div class="light">
       <div class="container">
         <div class="row">
@@ -18,10 +19,24 @@
                 {% for item in page.variants %}<div class="smallplant" style="background: white url('{{ item.image }}') center center no-repeat; background-size: contain;"></div>{% endfor %}
             </div>
             <div class="col-lg-6 col-md-6 text-left">
-                <h1 class="post-title" style="margin: 0 0 35px;">{{ page.title }}</h1>
-                {{ content }}
+                <div style="margin-left: -15px; width: 280px; position: relative;"><div class="square"><div style="text-align: center;">
+                <h1>CALATHEA</h1>Bicajoux Gekko
+                </div></div></div>
 
-                <p><a href="/" class="readmore">TERUG</a></p>
+                <div style="margin-top: 18px;" class="italic">
+                  • {{ page.title }}<br />
+                  {{ content }}
+                  • Soorten<br />
+                  {% for item in page.variants %}
+                    {{ forloop.index }}. {{ page.title }} - {{ item.title }}<br />
+                  {% endfor %}
+                  <br />
+                  • Land van herkomst<br />
+                  {{ page.origin }}<br />
+                  <br />
+                  • Verzorging<br />
+                  ...
+                </div>
 
             </div>
           </div>

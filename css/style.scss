@@ -78,9 +78,10 @@ body {color: #152623; background: #f8f9f9; font-family: 'Orator', sans-serif; fo
     -webkit-transform: translate(-50%,-50%); /* Chrome, Safari, Opera */
     transform: translate(-50%,-50%);
 }
-.square h3 {margin:0 0 5px;}
+.square h1, .square h3 {line-height: 1.2em; font-size: 22px; margin:0 0 5px;}
 .square p {margin-bottom: 5px;}
 .square h3 ~ p {margin-top: 20px; margin-bottom: 5px;}
+.square .jmplantslogo {width: 130px;}
 
 b, strong {font-weight: normal;}
 #map {border: 0px solid #231F20; cursor: pointer; height: 335px; background: url('/img/map.png') center center no-repeat; background-size: cover; margin-bottom: 0px;}
@@ -94,7 +95,7 @@ footer a, footer a:hover, footer a:focus {color: #231F20;}
 .site-footer2 {background: url('/img/footer.png') center top repeat; background-size: auto 300px; text-transform: uppercase; font-size: 15px!important; padding: 0!important; 
   max-height: 99999px; line-height: 1.5em;}
 .site-footer2 a, .site-footer2 a:hover, .site-footer2 a:focus {color: #231F20; font-weight: normal; text-decoration: none;}
-.site-footer2 > div:nth-child(1) {padding: 10px 0 35px;}
+.site-footer2 > div:nth-child(1) {padding: 15px 0 35px;}
 .site-footer2 h3 {font-size: 22px; padding-bottom: 9px;}
 .footerbar {color: rgba(255,255,255,0.7); height: 42px; line-height: 40px; font-size: 13px; background: #789363; margin-top: 10px;}
 .footerbar a {color: rgba(255,255,255,0.7)!important;}
@@ -170,7 +171,7 @@ footer a, footer a:hover, footer a:focus {color: #231F20;}
 h1, h2 {text-transform: uppercase; font-weight: normal; font-size: 42px; margin-bottom: 30px; margin-top: 0px; letter-spacing: 1px;}
 h2 {font-size: 30px; padding-top: 30px; margin-bottom: 35px; letter-spacing: 1px;}
 h3 {font-weight: normal; font-size: 22px; text-transform: uppercase; letter-spacing: 1px;}
-.light ul, .light ol, p {margin-bottom: 1.5em;}
+.light ul, .light ol, p {margin-bottom: 1.1em;}
 .post-content ul, 
 .post-content ol {margin-bottom: 2em; color: #e6e6e1;}
 .featured-image img {margin-top: 5px; max-width: 100%; border: 1px solid #231F20;}
@@ -179,7 +180,7 @@ h3 {font-weight: normal; font-size: 22px; text-transform: uppercase; letter-spac
     -webkit-column-count: 2; /* Chrome, Safari, Opera */
     -moz-column-count: 2; /* Firefox */
     column-count: 2;
-    margin-bottom: 1.5em;
+    margin-bottom: 1.1em;
     -webkit-column-gap: 14px; /* Chrome, Safari, Opera */
     -moz-column-gap: 14px; /* Firefox */
     column-gap: 14px;
@@ -196,10 +197,10 @@ a:hover {text-decoration: none;}
     -ms-transition: all 0.2s ease;          
     transition: all 0.2s ease;
 }
-.btn-default:active:hover, .btn-default:focus, .btn-default:hover, .btn-default {opacity: 1; border: 1px solid #231F20!important; background: #7c9667; color: #231F20; -webkit-box-shadow: none; box-shadow: none;}
-.btn-default:active:hover, .btn-default:focus, .btn-default:hover {background: #231F20; border-color: #231F20!important;}
-.btn-primary:active:hover, .btn-primary:focus, .btn-primary:hover, .btn-primary {opacity: 1; border: 1px solid #e6e6e1!important; background: #e6e6e1; color: #231F20;; -webkit-box-shadow: none; box-shadow: none;}
-.btn-primary:active:hover, .btn-primary:focus, .btn-primary:hover {background: #7c9667; color: #e6e6e1!important; border-color: #e6e6e1!important;}
+.btn-default:active:hover, .btn-default:focus, .btn-default:hover, .btn-default {opacity: 1; border: 1px solid #7c9667!important; background: #7c9667; color: #e6e6e1; -webkit-box-shadow: none; box-shadow: none;}
+.btn-default:active:hover, .btn-default:focus, .btn-default:hover {background: #7c9667; border-color: #7c9667!important;}
+.btn-primary:active:hover, .btn-primary:focus, .btn-primary:hover, .btn-primary {opacity: 1; border: 1px solid #7c9667!important; background: #7c9667; color: #e6e6e1;; -webkit-box-shadow: none; box-shadow: none;}
+.btn-primary:active:hover, .btn-primary:focus, .btn-primary:hover {background: #7c9667; color: #e6e6e1!important; border-color: #7c9667!important;}
 .btn-default:active:hover, .btn-default:hover, .btn-primary:active:hover, .btn-primary:hover {opacity: 1;}
 .btn:active:hover, .btn:focus, .btn:hover {color: #e6e6e1;}
 
@@ -208,11 +209,11 @@ a:hover {text-decoration: none;}
 
 .mobile {display: none;}
 .desktop {display: inline;}
-form {padding-right: 30px; clear: both;}
+form {padding-right: 0px; clear: both;}
 label {font-weight: normal;}
 .post-content img, .post-content iframe {max-width: 100%;}
 .bigplant {width: 100%; padding-top: 100%;}
-.smallplant {width: 25%; padding-top: 25%; display: block; float: left; margin: 25px 0 35px 0;}
+.smallplant {width: 25%; padding-top: 25%; display: block; float: left; margin: 22px 0 35px 0;}
 .smallplant:nth-child(5) {margin-right: 0;}
 
 #lightbox {display: none; z-index: 99; position: fixed; top: 0; left: 0; text-align: center;}
@@ -229,7 +230,28 @@ label {font-weight: normal;}
 #wrapall {overflow: auto;}
 #wrapall, .navbar > div, #lightbox {background: rgba(230,230,225,0);}
 
+.backlink {text-decoration: none!important; color: #231F20!important; display: inline-block; margin-top: 15px; position: relative; top: 8px;}
+.italic {font-style: italic;}
 
+
+.form-control, .form-control:focus {
+    border-radius: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    height: 45px;
+    line-height: 45px;
+    font-size: 17px;
+    font-weight: 300;
+    border-color: #fff;
+    border: 1px solid #1f2024;
+    background: transparent;
+    color: #000;
+    padding: 2px 15px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+#popup {display: none; cursor: pointer; z-index: 9999999999; padding-top: 35px;  text-align: center; font-size: 22px; line-height: 1.8em; color: #e6e6e1; bottom: 20px; right: 20px; position: fixed; width: 350px; height: 200px; background: url(/img/popup.png) center top no-repeat; background-size: cover;}
+#closepopup {position: absolute; right: 8px; top: 0px; margin-top: -4px; cursor: pointer; font-weight: bold;}
 
 
 @media all and (max-width: 1700px) {

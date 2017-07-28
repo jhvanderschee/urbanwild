@@ -144,15 +144,12 @@ $( document ).ready(function() {
 		}
 	});
 
-	$('.behandelingen td.text-center').each(function () {
-            $(this).html($(this).html().replace('€ ', '€&nbsp;'));
-            $(this).html($(this).html().replace('.', ','));
-			$(this).html($(this).html().replace('n,v.t.', 'n.v.t.'));
-    });
+	$('#popup').delay(3000).slideToggle();
 
-	$('#expandbutton').click(function() {
-		$('.expand1').show(); 
-		$('#expand1').hide();
+	$('#closepopup').click(function(event) {
+		$('#popup').slideToggle();
+		event.preventDefault();
+		event.stopPropagation();
 	})
 
 	$("#contact_form input[type='submit']").click(function(event) {
