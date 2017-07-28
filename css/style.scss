@@ -64,7 +64,7 @@ body {color: #152623; background: #f8f9f9; font-family: 'Orator', sans-serif; fo
 .light .post-content p {color: #231F20;}
 
 #collectie h3 {margin: 0; padding: 0; font-size: 22px;}
-#collectie .plant {width: 100%; padding-top: 95%; margin: 13px 0;}
+#collectie .plant {width: 100%; padding-top: 100%; margin: 13px 0;}
 #collectie .description {height: 3.3em; overflow: hidden; margin-bottom: 40px;}
 
 
@@ -191,8 +191,8 @@ a:hover {text-decoration: none;}
 form {padding-right: 30px; clear: both;}
 label {font-weight: normal;}
 .post-content img, .post-content iframe {max-width: 100%;}
-.bigplant {max-width: 100%; display: block; margin-right: 1px;}
-.smallplant {max-width: 25%; display: block; float: left; margin: 25px 0 35px 0;}
+.bigplant {width: 100%; padding-top: 100%;}
+.smallplant {width: 25%; padding-top: 25%; display: block; float: left; margin: 25px 0 35px 0;}
 .smallplant:nth-child(5) {margin-right: 0;}
 
 #lightbox {display: none; z-index: 99; position: fixed; top: 0; left: 0; text-align: center;}
