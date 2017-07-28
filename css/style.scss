@@ -21,6 +21,13 @@ html * {max-height:1000000px;}
 html {overflow-y: scroll; overflow-x: hidden; height: 100%;}
 body {color: #152623; background: #f8f9f9; font-family: 'Orator', sans-serif; font-size: 17px; line-height: 1.1em;}
 
+
+//Change bootstrap gap
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+    padding-right: 7px; padding-left: 7px;
+}
+
+
 #splash {display: none; position: fixed; height: 100%; width: 100%; background: #f8f9f9; z-index: 99; cursor: pointer;}
 #splash table {height: 100%; width: 100%;}
 #splash td {vertical-align: middle; text-align: center;}
@@ -153,9 +160,9 @@ h3 {font-weight: normal; font-size: 22px; text-transform: uppercase; letter-spac
     -moz-column-count: 2; /* Firefox */
     column-count: 2;
     margin-bottom: 1.5em;
-    -webkit-column-gap: 30px; /* Chrome, Safari, Opera */
-    -moz-column-gap: 30px; /* Firefox */
-    column-gap: 30px;
+    -webkit-column-gap: 14px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 14px; /* Firefox */
+    column-gap: 14px;
 }
 
 a {text-decoration: underline;}
@@ -212,7 +219,6 @@ label {font-weight: normal;}
 }
 
 @media all and (max-width: 1199px) {
-.behandelingen .sidebar {padding-left: 0!important; border-left: 0!important;}
   .gallery_images a {display: none;}
   .gallery_images > div a:nth-child(1) {display: inline-block;}
   .gallery_images > div a:nth-child(2) {display: inline-block;}
@@ -221,7 +227,11 @@ label {font-weight: normal;}
   .gallery_images > div a:nth-child(5) {display: none;}
   .navbar {font-size: 31px;}
   .navbar-default .navbar-nav>li>a {margin-left: 16px; margin-right: 16px;}
-  .monkeyjarweetjes {width: 100%; position: relative; bottom: 40px;}
+  .twocols {
+    -webkit-column-count: 1; /* Chrome, Safari, Opera */
+    -moz-column-count: 1; /* Firefox */
+    column-count: 1;
+  }
 }
 @media all and (max-width: 991px) {
   form, .twocols .post-content p {padding-right: 0px;}
@@ -243,7 +253,6 @@ label {font-weight: normal;}
 @media all and (max-width: 767px) {
   .navbar-default .navbar-collapse {background: #231F20; border: none;}
   .navbar-default .navbar-brand {margin: 5px 15px!important;}
-  .post .salon > div {background-image: url('/img/interior.jpg');}
   .gallery_images a {display: none;}
   .gallery_images > div a:nth-child(1) {display: inline-block;}
   .gallery_images > div a:nth-child(2) {display: inline-block;}
@@ -264,7 +273,6 @@ label {font-weight: normal;}
   .gallery_images > div a:nth-child(5) {display: none;}
 }
 @media all and (max-width: 450px) {
-  .post .salon > div {background-image: url('/img/interior.jpg');}
 }
 
 
@@ -351,3 +359,5 @@ label {font-weight: normal;}
 .carousel-indicators.vertical > li:nth-child(1) {
 margin-top: 210px;
 }
+
+
