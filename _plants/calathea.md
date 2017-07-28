@@ -1,18 +1,19 @@
 ---
 title: Calathea
-image: /img/slide.jpg
+image: /img/plant.png
+description: Geef minimaal eenmaal per week een kopje water en let erop of de potgrond nat is.
 variants:
   - title: Variant 1
-    image: /img/slide.jpg
+    image: /img/plant.png
     description: 'Lorem ipsum...'
   - title: Variant 2
-    image: /img/slide.jpg
+    image: /img/plant.png
     description: 'Lorem ipsum...'
   - title: Variant 3
-    image: /img/slide.jpg
+    image: /img/plant.png
     description: 'Lorem ipsum...'
   - title: Variant 4
-    image: /img/slide.jpg
+    image: /img/plant.png
     description: 'Lorem ipsum...'
 order: 1
 ---

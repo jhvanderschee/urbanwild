@@ -26,6 +26,7 @@
     {% for image in page.slider %}
     <div class="item {% if forloop.index0 == 0 %}active{% endif %}" style="background: #dedede url('{{ image.image }}') calc(50% + 400px) 20% no-repeat; background-size: 1000px auto;">
       <div class="container text-left" style="position: relative;">
+        <img class="jmplantslogo" src="/img/jmplantslogo.svg" />
         <h2>{{ image.title }}</h2>
         <a href="{{ image.button_url }}" class="btn">{{ image.button_text }}</a>
       </div>
@@ -44,14 +45,14 @@
       <div class="container">
         <div class="row">
             <div class="col-xs-12 text-left">
-                      <h2 class="post-title" style="margin: 0 0 35px;">OVER URBAN WILD</h2>
+                      <h2 class="post-title">OVER URBAN WILD</h2>
             </div> 
         </div>
         <div class="row">
             <div class="col-lg-12 text-left">
 
-<p>Et, cum unt. Occaboria nonsequia sam, eribus evellacidi blabor apide di omnihil leculli cimodignis
-is estis atur, nobitia quam, tem re, cullaborere, quiatus.</p>
+<div class="twocols"><p><em>Et, cum unt. Occaboria nonsequia sam, eribus evellacidi blabor apide di omnihil leculli cimodignis
+is estis atur, nobitia quam, tem re, cullaborere, quiatus.</em></p>
 
 <p>Gendi sectorro te ped escius, volorro blatuscia dolenimet reiuri doluptaqui autemporia doluptam
 que lati re possimaios sedition cum as apiet latiberem et dolutent pa dem quodis acipsam alitasp
@@ -65,7 +66,7 @@ La dolorepra verfero consequ atestio. Pudit, solore pos incti volorep ellorit au
 sum nonsecusant vel et voluptaes dis ea velluptati apernam que doluptus pra volor sundellam atem re
 et eribea sus con pro odi option et aliquam, cullam, sunt aped qui optatus int.
 Musdam, sae dolupta eperibe rspicte numque venimil et, adi autectectur soloren dionsequae
-nihicienis eossit liquis intibus</p>
+nihicienis eossit liquis intibus</p></div>
 
             </div>
           </div>
@@ -77,24 +78,21 @@ nihicienis eossit liquis intibus</p>
       <div class="container">
         <div class="row">
             <div class="col-xs-12 text-left">
-                      <h2 class="post-title editable" style="margin: 0;">Collectie</h2>
+                      <h2 class="post-title editable">Collectie</h2>
             </div> 
         </div>
       </div>
       <div class="container" style="padding: 0 15px;">
-        <div class="row" style="margin: 0px -7px; overflow: hidden;">
+        <div class="row text-left" style="margin: 0px -7px; overflow: hidden;">
           {% assign siteplants = site.plants | sort: 'order' %}
           {% for item in siteplants %}
             <div class="col-md-3 col-sm-4 col-xs-6" style="padding: 0 7px; cursor: pointer;" onclick="window.location.href='{{ item.url }}';">
-              <div style="background: white url('{{ item.image }}') center center no-repeat; background-size: contain; width: 100%; padding-top: 95%;"></div>
-                          
-              {{ item.title }}<br />
-
-              &nbsp;
+              <h3>{{ item.title }}</h3>
               {% for subitem in item.variants %}
                 {% if forloop.index == 1 %}{{ forloop.length }} variants{% endif %}
-              {% endfor %}
-              &nbsp;    
+              {% endfor %}&nbsp;
+              <div class="plant" style="background: white url('{{ item.image }}') center center no-repeat; background-size: contain;"></div>
+              <div class="description">{{ item.description }}</div>
             </div>
           {% endfor %}
           </div>
@@ -106,12 +104,12 @@ nihicienis eossit liquis intibus</p>
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-left"> 
-            <h2 class="post-title" style="margin: 0 0 10px;">Luchtzuiverend</h2>
-            <p>Planten van Urban Wild zuiveren de lucht in huis. De soorten zijn zelfs specifiek gekozen op hun grote capaciteit
+            <h2 class="post-title">Luchtzuiverend</h2>
+            <div class="twocols"><p>Planten van Urban Wild zuiveren de lucht in huis. De soorten zijn zelfs specifiek gekozen op hun grote capaciteit
 om de lucht in huis gezond te houden. In onze leefomgeving komen veel giftige stoffen voor. Wat de planten doen, is
 die chemische stoffen in de lucht opnemen en afbreken. Ook halen planten CO2 uit de lucht om die om te zetten in
 zuurstof. De verdamping van een plant draagt ook bij aan een betere luchtvochtigheid in huis. Verder wordt fijnstof
-gebonden door het blad van planten. Dat maakt Urban Wild niet alleen mooi om te zien, maar ook fijn om in te leven!</p>
+gebonden door het blad van planten. Dat maakt Urban Wild niet alleen mooi om te zien, maar ook fijn om in te leven!</p></div>
           </div>
         </div>
       </div>

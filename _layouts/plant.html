@@ -14,9 +14,7 @@
         <div class="row">
             <div class="col-lg-6 col-md-6">
                 <img src="{{ page.image }}" class="bigplant" />
-                {% for item in page.variants %}
-                    <img src="{{ item.image }}" class="smallplant" />
-                {% endfor %}
+                {% for item in page.variants %}<img src="{{ item.image }}" class="smallplant" />{% endfor %}
             </div>
             <div class="col-lg-6 col-md-6 text-left">
                 <h1 class="post-title" style="margin: 0 0 35px;">{{ page.title }}</h1>
