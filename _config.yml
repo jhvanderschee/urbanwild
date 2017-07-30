@@ -10,7 +10,7 @@ defaults:
       layout: 'plant'
 
 collections:
-  facts:
+  instructions:
     output: false
   plants:
     output: true

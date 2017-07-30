@@ -10,7 +10,7 @@
 
 	  {% include header.html %}
 
-    <div class="container italic"><div class="row"><div class="col-xs-12"><a href="/#collectie" class="backlink">• Terug</a></div></div></div>
+    <div class="container italic"><div class="row"><div class="col-xs-12"><a href="/collectie" class="backlink">• Terug</a></div></div></div>
     <div class="light">
       <div class="container">
         <div class="row">
@@ -20,10 +20,10 @@
             </div>
             <div class="col-lg-6 col-md-6 text-left">
                 <div style="margin-left: -15px; width: 280px; position: relative;"><div class="square"><div style="text-align: center;">
-                <h1>CALATHEA</h1>Bicajoux Gekko
+                <h1>{{ page.title }}</h1>Bicajoux Gekko
                 </div></div></div>
 
-                <div style="margin-top: 18px;" class="italic">
+                <div style="margin-top: 20px; margin-left: 5px;" class="italic">
                   • {{ page.title }}<br />
                   {{ content }}
                   • Soorten<br />
@@ -32,10 +32,14 @@
                   {% endfor %}
                   <br />
                   • Land van herkomst<br />
-                  {{ page.origin }}<br />
+                  <img src="/img/world.svg" class="care_icon" style="width: 90px; margin-right: 5px; cursor: default;" /><span style="position: relative; top: 4px;">{{ page.origin }}</span><br />
                   <br />
                   • Verzorging<br />
-                  ...
+                  <img src="/img/brightness.svg" class="care_icon" style="width: 55px;" title="Brightness" onclick="window.location.href='/verzorging';" />
+                  <img src="/img/temperature.svg" class="care_icon" style="width: 48px;" title="Temperature" onclick="window.location.href='/verzorging';" />
+                  <img src="/img/water.svg" class="care_icon" style="width: 65px;" title="Water" onclick="window.location.href='/verzorging';" />
+                  <img src="/img/fertilize.svg" class="care_icon" style="width: 65px;" title="Fertilize" onclick="window.location.href='/verzorging';" />
+                  <img src="/img/donoteat.svg" class="care_icon" style="width: 45px;" title="Do not eat" onclick="window.location.href='/verzorging';" />
                 </div>
 
             </div>

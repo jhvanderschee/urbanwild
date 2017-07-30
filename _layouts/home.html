@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body data-spy="scroll" data-target="#navbar" data-offset="300" class="home" onload="">
+  <body data-spy="scroll" data-target="#navbar" data-offset="300" class="{{ page.layout }}" onload="">
   <div id="splash"><table cellpadding="0" cellspacing="0"><tr><td><img src="/img/urbanwildlogo.png" /></td></tr></table></div>
   <div id="nonsplash">
     <div id="innernonsplash">
@@ -44,7 +44,7 @@ nihicienis eossit liquis intibus</p>
       </div>
     </div>
 
-    <div class="light collectie2" id="collectie" onclick="window.location.href='/collectie'">
+    <div class="light collectie2" id="collectie">
       <div class="container">
         <div class="row">
             <div class="col-xs-12 text-left">
@@ -56,17 +56,17 @@ nihicienis eossit liquis intibus</p>
           {% assign siteplants = site.plants | sort: 'order' %}
           {% for item in siteplants limit:7 %}
               {% if forloop.index < 3 or forloop.index == 5 or forloop.index == 6 or forloop.index == 8 or forloop.index == 9 %}
-                <div class="plant item{{ forloop.index }}" style="background: white url('{{ item.image }}') center center no-repeat; background-size: contain;"></div>
-                <div class="square"><div style="text-align: center;"><h3>{{ item.title }}</h3>
+                <div class="plant item{{ forloop.index }}" style="background: white url('{{ item.image }}') center center no-repeat; background-size: contain;" onclick="window.location.href='{{ item.url }}'"></div>
+                <div class="square" onclick="window.location.href='{{ item.url }}'"><div style="text-align: center;"><h3>{{ item.title }}</h3>
                 {% for subitem in item.variants %}
                   {% if forloop.index == 1 %}{{ forloop.length }} variants{% endif %}
                 {% endfor %}</div></div>
               {% else %}
-                <div class="square"><div style="text-align: center;"><h3>{{ item.title }}</h3>
+                <div class="square" onclick="window.location.href='{{ item.url }}'"><div style="text-align: center;"><h3>{{ item.title }}</h3>
                 {% for subitem in item.variants %}
                   {% if forloop.index == 1 %}{{ forloop.length }} variants{% endif %}
                 {% endfor %}</div></div>
-                <div class="plant item{{ forloop.index }}" style="background: white url('{{ item.image }}') center center no-repeat; background-size: contain;"></div>
+                <div class="plant item{{ forloop.index }}" style="background: white url('{{ item.image }}') center center no-repeat; background-size: contain;" onclick="window.location.href='{{ item.url }}'"></div>
               {% endif %}
           {% endfor %}
       </div>

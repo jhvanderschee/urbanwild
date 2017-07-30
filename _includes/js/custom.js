@@ -161,7 +161,11 @@ $( document ).ready(function() {
             history.pushState({}, $pageTitle , '#'+$pagehref)
         };
         setTimeout(delayupdate,500)
-    });
+	});
+	
+	$(".smallplant").click(function(event) {
+        $(".bigplant").css('background-image',$(".smallplant").css('background-image'));
+	});
 
     $(window).resize();
 });
