@@ -129,21 +129,6 @@ $( document ).ready(function() {
 		$('#review').animate({"left": '+='+$('#review').width()},1500);
 	}
 	
-	$('input[name=contact-type]:radio').change(function () {
-		if($('input[name=contact-type]:checked').val() == 'vraag') {
-			$('#vraagdiv').show();
-			$('#vraagdiv input.required, #vraagdiv textarea.required').attr("required", true);
-			$('#afspraakdiv').hide();
-			$('#afspraakdiv input, #afspraakdiv textarea').removeAttr('required');
-		}
-		if($('input[name=contact-type]:checked').val() == 'afspraak') {
-			$('#vraagdiv').hide();
-			$('#vraagdiv input, #vraagdiv textarea').removeAttr('required');
-			$('#afspraakdiv').show();
-			$('#afspraakdiv input.required, #afspraakdiv textarea.required').attr("required", true);
-		}
-	});
-
 	$('#popup').delay(3000).slideToggle();
 
 	$('#closepopup').click(function(event) {
