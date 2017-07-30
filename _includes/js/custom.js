@@ -144,7 +144,11 @@ $( document ).ready(function() {
         		event.preventDefault();
         	}
         }); 
-    });
+	});
+	$("#contact_form .form-control").click(function(event) {
+        if($(this).hasClass('error')) $(this).removeClass('error');
+	});
+	
     /* SCROLLSPY NAVBAR */
     $('#navbar').on('activate.bs.scrollspy', function (e) {
         $pageTitle = $(e.target).children("a").text();
