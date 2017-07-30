@@ -163,8 +163,10 @@ $( document ).ready(function() {
         setTimeout(delayupdate,500)
 	});
 	
-	$(".smallplant").click(function(event) {
-        $(".bigplant").css('background-image',$(".smallplant").css('background-image'));
+	$(".smallplant").click(function() {
+		var bigplantimage = $(".bigplant").css('background-image');
+		$(".bigplant").css('background-image', $(this).css('background-image'));
+		$(this).css('background-image',bigplantimage);
 	});
 
     $(window).resize();

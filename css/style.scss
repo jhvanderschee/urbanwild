@@ -226,6 +226,7 @@ label {font-weight: normal;}
 .bigplant {width: 100%; padding-top: 100%;}
 .smallplant {width: 25%; padding-top: 25%; display: block; float: left; margin: 22px 0 35px 0;}
 .smallplant:nth-child(5) {margin-right: 0;}
+.bigplant, .smallplant {cursor: pointer;}
 
 #lightbox {display: none; z-index: 99; position: fixed; top: 0; left: 0; text-align: center;}
 #lightbox #image {z-index: 0; display: inline; max-height: 95vh; max-width: 95vw; border: 1px solid #231F20;}
