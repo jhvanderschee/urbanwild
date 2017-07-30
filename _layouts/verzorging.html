@@ -16,8 +16,8 @@
           {% for instruction in site.instructions %}
             {% if instruction.image %}
             <div class="col-lg-3 col-md-4 col-sm-5" style="max-width: 300px; margin-bottom: 40px;">
-              <div style="position: relative; margin-right: 35px;"><div class="square" style="position: relative; height: 244px;"><div style="font-size: 22px; width: 115px; white-space: normal; text-transform: lowercase;">
-              <img src="/img/brightness.svg" class="care_icon" style="margin: 0 0 15px; width: 115px; cursor: default;" title="Brightness" /><br />
+              <div style="position: relative; margin-right: 35px;"><div class="square" style="position: relative; height: 244px;"><div style="font-size: 20px; width: 115px; white-space: normal; text-transform: lowercase; line-height: 1.1em;">
+              <img src="{{ instruction.image }}" class="care_icon" style="margin: 0 0 15px; width: 115px; cursor: default;" title="Brightness" /><br />
               {{ instruction.caption }}
               </div></div></div>
             </div>

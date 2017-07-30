@@ -268,6 +268,62 @@ label {font-weight: normal;}
 .care_icon {width: 65px; display: inline-block; margin: 15px 20px 5px 0; cursor: pointer;}
 .light ul {padding-left: 19px;}
 .verzorging .light h3 {margin-top: 0; margin-bottom: 20px;}
+.verzorging .light .row > div:nth-child(2) h3:before,
+.verzorging .light .row > div:nth-child(5) h3:before,
+.verzorging .light .row > div:nth-child(8) h3:before,
+.verzorging .light .row > div:nth-child(11) h3:before,
+.verzorging .light .row > div:nth-child(14) h3:before {
+  content: "";
+  position: absolute;
+  z-index: 0;
+  background: url('/img/vlek.png') center center no-repeat;
+  background-size: contain;
+  width: 160px;
+  height: 40px;
+  margin-left: -149px;
+  margin-top: 30px;
+}
+.home .collectie2 .square:nth-child(7):before,
+.home .collectie2 .square:nth-child(13):before,
+.verzorging .light .row > div:nth-child(5) h3:before,
+.verzorging .light .row > div:nth-child(8) h3:before {
+    -ms-transform: rotate(180deg); /* IE 9 */
+    -webkit-transform: rotate(180deg); /* Chrome, Safari, Opera */
+    transform: rotate(180deg);
+}
+.square:before {
+  content: "";
+  position: absolute;
+  z-index: 1;
+  background: url('/img/vlek.png') center center no-repeat;
+  background-size: contain;
+  width: 170px;
+  height: 50px;
+  margin-left: -80px;
+  margin-top: 150px;
+}
+
+.verzorging .light .row > div:nth-child(1) img.care_icon {width: 100px!important;}
+.verzorging .light .row > div:nth-child(4) img.care_icon {width: 75px!important;}
+.verzorging .light .row > div:nth-child(7) img.care_icon {width: 80px!important;}
+.verzorging .light .row > div:nth-child(5) h3:before,
+.verzorging .light .row > div:nth-child(8) h3:before,
+.verzorging .light .row > div:nth-child(11) h3:before {margin-top: 90px;}
+
+.contact .square:before {margin-left: -80px; margin-top: 0%;}
+.contact .row:nth-child(2) .square:before {margin-left: 70%; margin-top: 50%;}
+
+.home .collectie2 .square:before {margin-left: -80%; margin-top: -60%;}
+.home .collectie2 .square:nth-child(13):before,
+.home .collectie2 .square:nth-child(7):before,
+.home .collectie2 .square:nth-child(5):before {margin-left: 20%; margin-top: -60%;}
+
+.home .collectie2 .square:nth-child(12):before {
+    -ms-transform: rotate(90deg); /* IE 9 */
+    -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
+    transform: rotate(90deg);
+    margin-left: -25%; margin-top: -8%;
+}
 
 @media all and (max-width: 1700px) {
 .light.extras:before {left: 50%; margin-left: -850px;}

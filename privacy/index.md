@@ -1,6 +1,7 @@
 ---
 title: Privacy
 ---
+
 Deze site maakt gebruik van Google Analytics-cookies. Hiermee verwerken wij de persoonsgegevens van u als websitebezoeker, op basis van artikel 8, onder f, van de Wbp (noodzaak ter behartiging van uw gerechtvaardigd belang). 
 
 Wij hebben echter waarborgen getroffen waardoor uw recht op bescherming van de persoonlijke levenssfeer niet prevaleert boven ons gerechtvaardigd belang. Dit hebben wij gedaan middels de volgende maatregelen:

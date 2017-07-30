@@ -8,13 +8,13 @@ variants:
     image: /img/plant.png
     description: 'Lorem ipsum...'
   - title: Variant 2
-    image: /img/plant.png
+    image: /img/plant1.png
     description: 'Lorem ipsum...'
   - title: Variant 3
     image: /img/plant.png
     description: 'Lorem ipsum...'
   - title: Variant 4
-    image: /img/plant.png
+    image: /img/plant1.png
     description: 'Lorem ipsum...'
 order: 1
 ---

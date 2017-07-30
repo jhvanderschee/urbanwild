@@ -9,26 +9,17 @@
 	  {% include header.html %}
 
 
-    <div class="light" style="padding-top: 218px;">
+    <div class="light">
       <div class="container">
         <div class="row">
             <div class="col-xs-12 text-left">
-                      <h2 class="post-title" style="margin: 0 0 35px;">{{ page.title }}</h2>
-            </div> 
-        </div>
-        <div class="row">
-            <div class="col-lg-6 col-md-6">
-            <img src="/img/plant.jpg" style="width: 100%;" /><br />&nbsp;</div>
-            <div class="col-lg-6 col-md-6 text-left">
-
-{{ content }}
-
-<p><a href="/" class="readmore">TERUG</a></p>
+              <h2 class="post-title" style="margin: 0 0 35px;">{{ page.title }}</h2>
+              {{ content }}
 
             </div>
           </div>
       </div>
-    </div>
+    </div><br />
 
 
     {% include footer.html %}
