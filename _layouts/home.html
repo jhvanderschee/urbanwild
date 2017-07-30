@@ -44,8 +44,7 @@ nihicienis eossit liquis intibus</p>
       </div>
     </div>
 
-
-    <div class="light" id="collectie">
+    <div class="light collectie2" id="collectie" onclick="window.location.href='/collectie'">
       <div class="container">
         <div class="row">
             <div class="col-xs-12 text-left">
@@ -54,19 +53,22 @@ nihicienis eossit liquis intibus</p>
         </div>
       </div>
       <div class="container" style="padding: 0 7px;">
-        <div class="row text-left" style="margin: 0px -7px; overflow: hidden;">
           {% assign siteplants = site.plants | sort: 'order' %}
-          {% for item in siteplants %}
-            <div class="col-md-3 col-sm-4 col-xs-6" style="padding: 0 7px; cursor: pointer;" onclick="window.location.href='{{ item.url }}';">
-              <h3>{{ item.title }}</h3>
-              {% for subitem in item.variants %}
-                {% if forloop.index == 1 %}{{ forloop.length }} variants{% endif %}
-              {% endfor %}&nbsp;
-              <div class="plant" style="background: white url('{{ item.image }}') center center no-repeat; background-size: contain;"></div>
-              <div class="description">{{ item.description }}</div>
-            </div>
+          {% for item in siteplants limit:7 %}
+              {% if forloop.index < 3 or forloop.index == 5 or forloop.index == 6 or forloop.index == 8 or forloop.index == 9 %}
+                <div class="plant item{{ forloop.index }}" style="background: white url('{{ item.image }}') center center no-repeat; background-size: contain;"></div>
+                <div class="square"><div style="text-align: center;"><h3>{{ item.title }}</h3>
+                {% for subitem in item.variants %}
+                  {% if forloop.index == 1 %}{{ forloop.length }} variants{% endif %}
+                {% endfor %}</div></div>
+              {% else %}
+                <div class="square"><div style="text-align: center;"><h3>{{ item.title }}</h3>
+                {% for subitem in item.variants %}
+                  {% if forloop.index == 1 %}{{ forloop.length }} variants{% endif %}
+                {% endfor %}</div></div>
+                <div class="plant item{{ forloop.index }}" style="background: white url('{{ item.image }}') center center no-repeat; background-size: contain;"></div>
+              {% endif %}
           {% endfor %}
-          </div>
       </div>
     </div>
 

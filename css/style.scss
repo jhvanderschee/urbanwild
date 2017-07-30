@@ -63,10 +63,20 @@ body {color: #152623; background: #f8f9f9; font-family: 'Orator', sans-serif; fo
 .light .post-content {}
 .light .post-content p {color: #231F20;}
 
-#collectie h3 {margin: 0; padding: 0; font-size: 22px;}
-#collectie .plant {width: 100%; padding-top: 100%; margin: 13px 0;}
-#collectie .description {height: 3.3em; overflow: hidden; margin-bottom: 40px;}
+#collectie.collectie h3 {margin: 0; padding: 0; font-size: 22px;}
+#collectie.collectie .plant {width: 100%; padding-top: 100%; margin: 13px 0;}
+#collectie.collectie .description {height: 3.3em; overflow: hidden; margin-bottom: 40px;}
 
+#collectie.collectie2 {margin-bottom: 1.4em; cursor: pointer;}
+#collectie.collectie2 > div {position: relative;}
+#collectie.collectie2 > div > * {width: 25%; float: left;}
+#collectie.collectie2 .plant {width: 25%; padding-top: 25%; margin: 0;}
+#collectie.collectie2 .plant:nth-child(1), #collectie.collectie2 .plant:nth-child(11) {width: 50%; padding-top: 50%;}
+#collectie.collectie2 .square:nth-child(12) {position: absolute; margin-top: calc(75% - 12px); margin-left: calc(75% - 12px);}
+#collectie.collectie2 .plant:nth-child(11), #collectie.collectie2 .plant:nth-child(13) {float: right;}
+#collectie.collectie2 .square:nth-child(2) {margin-right: 2px;}
+#collectie.collectie2 .square {position: relative; height: auto; padding-bottom: 0; width: 25%; padding-top: 25%;}
+#collectie.collectie2 .square > div {position: absolute; left: auto; top: 50%; display: inline-block;}
 
 
 .bgimage > div {padding: 60px 0;}
