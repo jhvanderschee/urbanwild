@@ -14,12 +14,12 @@
     <div class="light">
       <div class="container">
         <div class="row">
-            <div class="col-lg-6 col-md-6">
+            <div class="col-lg-6 col-md-6" style="overflow: auto;">
                 <div class="bigplant" style="background: white url('{{ page.image }}') center center no-repeat; background-size: contain;"></div>
                 {% for item in page.variants %}<div class="smallplant" style="background: white url('{{ item.image }}') center center no-repeat; background-size: contain;"></div>{% endfor %}
             </div>
             <div class="col-lg-6 col-md-6 text-left">
-                <div style="margin-left: -15px; width: 280px; position: relative;"><div class="square"><div style="text-align: center;">
+                <div style="margin-left: -15px; width: 270px; position: relative;"><div class="square"><div style="text-align: center;">
                 <h1>{{ page.title }}</h1>Bicajoux Gekko
                 </div></div></div>
 

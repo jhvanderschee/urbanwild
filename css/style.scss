@@ -371,6 +371,8 @@ label {font-weight: normal;}
   .gallery_images > div a:nth-child(5) {display: none;}
   #navbar .nav {left: 38px;}
   .navbar-default .navbar-nav > li > a {margin: 38px 15px 0 15px;}
+  .plant .square {display: none;}
+  #gallery {padding-top: 30px;}
 }
 @media (min-width: 768px) {
   .navbar-nav {float: none; display: inline-block; margin: 0 auto;}
