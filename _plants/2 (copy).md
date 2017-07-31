@@ -20,7 +20,7 @@ variants:
   - title: Bicajoux Gekko
     image: /img/plant.png
     description: Lorem ipsum...
-  - title: Variant 2
+  - title: Warscewiczii
     image: /img/plant1.png
     description: Lorem ipsum...
   - title: Variant 3
