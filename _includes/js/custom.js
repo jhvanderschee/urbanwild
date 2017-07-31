@@ -102,7 +102,7 @@ $( document ).ready(function() {
 		if($('body').hasClass('home') && $(this).attr('href')) {
 			el = $.attr(this, 'href').replace('/','');
 		    $('html, body').animate({
-		        scrollTop: ($( el ).offset().top - 188)
+		        scrollTop: ($( el ).offset().top - 100)
 		    }, 500);
 		    if($('.navmenu.offcanvas').hasClass('in')) $('.navbar-toggle').click();
 		    return false;
