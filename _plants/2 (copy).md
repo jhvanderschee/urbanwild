@@ -17,7 +17,7 @@ slider:
 description: Geef minimaal eenmaal per week een kopje water en let erop of de potgrond nat is.
 origin: Indonesië
 variants:
-  - title: Variant 1
+  - title: Bicajoux Gekko
     image: /img/plant.png
     description: Lorem ipsum...
   - title: Variant 2
