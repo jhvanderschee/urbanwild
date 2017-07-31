@@ -2,16 +2,18 @@
 title: Collectie
 layout: collectie
 slider:
+  - title: test
+    image: /img/slide.jpg
+    button_text: Bekijk de collectie
+    button_link: /collectie
   - title: Zuiverende planten voor gezond leven
     image: /img/slide.jpg
     button_text: Bekijk de collectie
-    button_link: '/collectie'
+    button_link: /collectie
   - title: Zuiverende planten voor gezond leven
     image: /img/slide.jpg
     button_text: Bekijk de collectie
-    button_link: '/collectie'
-  - title: Zuiverende planten voor gezond leven
-    image: /img/slide.jpg
-    button_text: Bekijk de collectie
-    button_link: '/collectie'
+    button_link: /collectie
 ---
+
+
