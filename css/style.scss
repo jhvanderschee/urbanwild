@@ -302,6 +302,7 @@ label {font-weight: normal;}
   margin-left: -80px;
   margin-top: 150px;
 }
+.verzorging .square:before {z-index: 0;}
 
 .verzorging .light .row > div:nth-child(1) img.care_icon {width: 100px!important;}
 .verzorging .light .row > div:nth-child(4) img.care_icon {width: 75px!important;}
@@ -345,6 +346,20 @@ label {font-weight: normal;}
     column-count: 1;
   }
   #navbar .nav {left: 128px;}
+}
+@media all and (max-width: 1350px) {
+  #instafeed {
+      position: absolute; 
+      margin-top: 68px; 
+      -ms-transform: rotate(0deg); /* IE 9 */
+      -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+      transform: rotate(0deg);
+      right: auto;
+      margin-right: 0px;
+      font-size: 17px;
+      letter-spacing: 0px;
+  }
+  #instalogo {display: none;}
 }
 @media all and (max-width: 991px) {
   form, .twocols .post-content p {padding-right: 0px;}
