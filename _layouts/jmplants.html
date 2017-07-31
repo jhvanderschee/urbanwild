@@ -17,10 +17,11 @@
                 {% for item in page.variants %}<div class="smallplant" style="background: white url('{{ item.image }}') center center no-repeat; background-size: contain;"></div>{% endfor %}
             </div>
             <div class="col-lg-6 col-md-6 text-left">
-                <div style="margin-left: -15px; width: 280px; position: relative;"><div class="square"><div style="text-align: center;">
+                <div style="margin-left: -15px; width: 280px; position: relative;" class="hidden-xs hidden-sm"><div class="square"><div style="text-align: center;">
                 <h1>ONTMOET DE<br />KWEKER</h1>
                 </div></div></div>
 
+                <h3 class="visible-xs visible-sm">Ontmoet de kweker</h3>
                 <div style="margin-top: 18px;" class="italic">
                   <p><em>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel orci pulvinar, convallis diam in, dignissim diam. Sed dictum ut nunc et rutrum.</em></p>
                   <p>Dinibus feugiat mi sit amet ultricies. Quisque erat sapien, malesuada eu justo eu, faucibus finibus diam. Aliquam erat volutpat. Integer eget nunc purus. Duis sagittis scelerisque felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vulputate fringilla ligula, ac luctus orci tristique euismod. Duis nibh neque, maximus a tristique in, pellentesque a risus. Nulla facilisi. Fusce augue ex, venenatis quis convallis quis, auctor non augue. Pellentesque egestas mi in tellus dignissim pulvinar.</p>
@@ -36,20 +37,22 @@
     <div class="light">
       <div class="container">
         <div class="row">
-            <div class="col-lg-6 col-md-6 text-right">
-                <div style="margin-right: -15px; display: inline-block; width: 280px; position: relative;"><div class="square"><div style="text-align: center;">
+            <div class="col-lg-6 col-md-6 floatright">
+                <div class="bigplant" style="background: white url('{{ page.second_image }}') center center no-repeat; background-size: cover;"></div>
+                {% for item in page.variants %}<div class="smallplant" style="background: white url('{{ item.image }}') center center no-repeat; background-size: contain;"></div>{% endfor %}
+            </div>
+            <div class="col-lg-6 col-md-6 text-right floatright">
+
+                <div style="margin-right: -15px; display: inline-block; width: 280px; position: relative;" class="hidden-xs hidden-sm"><div class="square"><div style="text-align: center;">
                 <img class="jmplantslogo" src="/img/jmplantslogo.svg" />
                 </div></div></div>
-
+                
+                <h3 class="visible-xs visible-sm">JM Plants</h3>
                 <div style="margin-top: 18px;" class="italic">
                   <p><em>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel orci pulvinar, convallis diam in, dignissim diam. Sed dictum ut nunc et rutrum. Phasellus finibus feugiat mi sit amet ultricies.</em></p>
                   <p>Erat sapien, malesuada eu justo eu, faucibus finibus diam. Aliquam erat volutpat. Integer eget nunc purus. Duis sagittis scelerisque felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vulputate fringilla ligula, ac luctus orci tristique euismod. Duis nibh neque, maximus a tristique in, pellentesque a risus. Nulla facilisi. Fusce augue ex, venenatis quis convallis quis, auctor non augue. Pellentesque egestas mi in tellus dignissim pulvinar.</p>
                 </div>
 
-            </div>
-            <div class="col-lg-6 col-md-6">
-                <div class="bigplant" style="background: white url('{{ page.second_image }}') center center no-repeat; background-size: cover;"></div>
-                {% for item in page.variants %}<div class="smallplant" style="background: white url('{{ item.image }}') center center no-repeat; background-size: contain;"></div>{% endfor %}
             </div>
         </div>
       </div>
@@ -65,10 +68,11 @@
                 {% for item in page.variants %}<div class="smallplant" style="background: white url('{{ item.image }}') center center no-repeat; background-size: contain;"></div>{% endfor %}
             </div>
             <div class="col-lg-6 col-md-6 text-left">
-                <div style="margin-left: -15px; width: 280px; position: relative;"><div class="square"><div style="text-align: center;">
+                <div style="margin-left: -15px; width: 280px; position: relative;" class="hidden-xs hidden-sm"><div class="square"><div style="text-align: center;">
                 <h3>MILLIEU-<br />VRIENDLEIJK<br />TELEN</h3>
                 </div></div></div>
 
+                <h3 class="visible-xs visible-sm">Milieuvriendelijk telen</h3>
                 <div style="margin-top: 18px;" class="italic">
                   <p><em>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel orci pulvinar, convallis diam in, dignissim diam. Sed dictum ut nunc et rutrum.</em></p>
                   <p>Dinibus feugiat mi sit amet ultricies. Quisque erat sapien, malesuada eu justo eu, faucibus finibus diam. Aliquam erat volutpat. Integer eget nunc purus. Duis sagittis scelerisque felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vulputate fringilla ligula, ac luctus orci tristique euismod. Duis nibh neque, maximus a tristique in, pellentesque a risus. Nulla facilisi. Fusce augue ex, venenatis quis convallis quis, auctor non augue. Pellentesque egestas mi in tellus dignissim pulvinar.</p>

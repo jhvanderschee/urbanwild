@@ -108,7 +108,7 @@ footer a, footer a:hover, footer a:focus {color: #231F20;}
 .site-footer2 a, .site-footer2 a:hover, .site-footer2 a:focus {color: #231F20; font-weight: normal; text-decoration: none;}
 .site-footer2 > div:nth-child(1) {padding: 15px 0 35px;}
 .site-footer2 h3 {font-size: 22px; padding-bottom: 9px;}
-.footerbar {color: rgba(255,255,255,0.7); height: 42px; line-height: 40px; font-size: 13px; background: #789363; margin-top: 10px;}
+.footerbar {color: rgba(255,255,255,0.7); height: 42px; line-height: 40px; font-size: 13px; background: #789363; margin-top: 10px; overflow: hidden;}
 .footerbar a {color: rgba(255,255,255,0.7)!important;}
 #instafeed {
     position: absolute; margin-top: 43px; 
@@ -224,7 +224,7 @@ form {padding-right: 0px; clear: both;}
 label {font-weight: normal;}
 .post-content img, .post-content iframe {max-width: 100%;}
 .bigplant {width: 100%; padding-top: 100%;}
-.smallplant {width: 25%; padding-top: 25%; display: block; float: left; margin: 22px 0 35px 0;}
+.smallplant {width: 25%; padding-top: 25%; display: block; float: left; margin: 22px 0 15px 0;}
 .smallplant:nth-child(5) {margin-right: 0;}
 .bigplant, .smallplant {cursor: pointer;}
 
@@ -325,7 +325,8 @@ label {font-weight: normal;}
     transform: rotate(90deg);
     margin-left: -25%; margin-top: -8%;
 }
-
+.jmplants .floatright {float: right;}
+.plant #gallery {padding-top: 20px;}
 @media all and (max-width: 1700px) {
 }
 @media all and (max-width: 1000px) {
@@ -373,6 +374,9 @@ label {font-weight: normal;}
   .navbar-default .navbar-nav > li > a {margin: 38px 15px 0 15px;}
   .plant .square {display: none;}
   #gallery {padding-top: 30px;}
+  .jmplants .text-right {text-align: left;}
+  .jmplants .floatright {float: none;}
+  .plant #gallery {padding-top: 60px;}
 }
 @media (min-width: 768px) {
   .navbar-nav {float: none; display: inline-block; margin: 0 auto;}
