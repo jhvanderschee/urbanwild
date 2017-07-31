@@ -1,5 +1,5 @@
 ---
-title: Stromanthe
+title: ALOCASIA
 image: /img/plant.png
 slider:
   - title: Zuiverende planten voor gezond leven
