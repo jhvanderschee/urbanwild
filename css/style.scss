@@ -386,6 +386,8 @@ label {font-weight: normal;}
   .jmplants .text-right {text-align: left;}
   .jmplants .floatright {float: none;}
   .plant #gallery {padding-top: 60px;}
+  #myCarousel .item .container h2 {width: calc(100% - 25px); max-width: 500px;}
+  #myCarousel .item .container * {margin-left: 25px;}
 }
 @media (min-width: 768px) {
   .navbar-nav {float: none; display: inline-block; margin: 0 auto;}
@@ -404,6 +406,7 @@ label {font-weight: normal;}
   .mobile {display: inline-block;}
   .desktop {display: none;}
   #popup {display: none!important;}
+  #myCarousel .item .container h2 {font-size: 42px; letter-spacing: 1px;}
 }
 @media all and (max-width: 545px) {
   .gallery_images a {display: none;}
