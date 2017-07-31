@@ -1,5 +1,5 @@
 ---
-title: CALATHEA
+title: Calathea
 image: /img/plant.png
 slider:
   - title: Zuiverende planten voor gezond leven
@@ -19,18 +19,15 @@ origin: Indonesië
 variants:
   - title: Bicajoux Gekko
     image: /img/plant.png
-    description: Lorem ipsum...
+    description: Lorem ipsum.sdfdf..
   - title: Warscewiczii
     image: /img/plant1.png
-    description: Lorem ipsum...
+    description: Lorem ipsum...sd
   - title: Variant 3
     image: /img/plant.png
-    description: Lorem ipsum...
+    description: Lorem ipsum..d.
   - title: Variant 4
     image: /img/plant1.png
-    description: Lorem ipsum...
+    description: Lorem ipsum...s
 order: 1
 ---
-
-
-Geef minimaal eenmaal per week een kopje water en let erop of de potgrond nat is.

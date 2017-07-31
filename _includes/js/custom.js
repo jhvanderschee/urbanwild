@@ -164,9 +164,9 @@ $( document ).ready(function() {
 	});
 	
 	$(".smallplant").click(function() {
-		var bigplantimage = $(".bigplant").css('background-image');
 		$(".bigplant").css('background-image', $(this).css('background-image'));
-		$(this).css('background-image',bigplantimage);
+		$('#description').html($(this).attr('description'));
+		$('#variantname').html($(this).attr('title'));
 	});
 
     $(window).resize();

@@ -16,21 +16,17 @@
         <div class="row">
             <div class="col-lg-6 col-md-6" style="overflow: auto;">
                 <h1 class="visible-xs visible-sm" style="font-size: 22px; text-align: left; margin-top: 0; margin-bottom: 20px;">{{ page.title }}</h1>
-                <div class="bigplant" style="background: white url('{{ page.image }}') center center no-repeat; background-size: contain;"></div>
-                {% for item in page.variants %}<div class="smallplant" style="background: white url('{{ item.image }}') center center no-repeat; background-size: contain;"></div>{% endfor %}
+                <div class="bigplant" style="background: white url('{% for item in page.variants %}{% if forloop.index == 1 %}{{ item.image }}{% endif %}{% endfor %}') center center no-repeat; background-size: contain;"></div>
+                {% for item in page.variants %}<div class="smallplant" style="background: white url('{{ item.image }}') center center no-repeat; background-size: contain;" title="{{ item.title }}" description="{{ item.description }}"></div>{% endfor %}
             </div>
             <div class="col-lg-6 col-md-6 text-left">
                 <div style="margin-left: -15px; width: 270px; position: relative;"><div class="square"><div style="text-align: center;">
-                <h1>{{ page.title }}</h1>Bicajoux Gekko
+                <h1>{{ page.title }}</h1><span id="variantname">{% for item in page.variants %}{% if forloop.index == 1 %}{{ item.title }}{% endif %}{% endfor %}</span>
                 </div></div></div>
 
                 <div style="margin-top: 15px;" class="italic">
                   • {{ page.title }}<br />
-                  {{ content }}
-                  • Soorten<br />
-                  {% for item in page.variants %}
-                    {{ forloop.index }}. {{ page.title }} - {{ item.title }}<br />
-                  {% endfor %}
+                  <span id="description">{% for item in page.variants %}{% if forloop.index == 1 %}{{ item.description }}{% endif %}{% endfor %}</span><br /><br />
                   <br />
                   • Land van herkomst<br />
                   <img src="/img/world.svg" class="care_icon" style="width: 90px; margin-right: 5px; cursor: default;" /><span style="position: relative; top: 4px;">{{ page.origin }}</span><br />
