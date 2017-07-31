@@ -15,6 +15,7 @@
       <div class="container">
         <div class="row">
             <div class="col-lg-6 col-md-6" style="overflow: auto;">
+                <h1 class="visible-xs visible-sm" style="font-size: 22px; text-align: left; margin-top: 0; margin-bottom: 20px;">{{ page.title }}</h1>
                 <div class="bigplant" style="background: white url('{{ page.image }}') center center no-repeat; background-size: contain;"></div>
                 {% for item in page.variants %}<div class="smallplant" style="background: white url('{{ item.image }}') center center no-repeat; background-size: contain;"></div>{% endfor %}
             </div>

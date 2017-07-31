@@ -83,7 +83,7 @@ body {color: #152623; background: #f8f9f9; font-family: 'Orator', sans-serif; fo
 .bgimage > div {padding: 60px 0;}
 .monkeyjarweetjes {width: 100%; position: relative; bottom: 80px;}
 
-.square {padding-bottom: 20px; font-size: 17px; line-height: 1.5em; background: url('/img/block-clean.png') center center no-repeat; background-size: cover; height: 270px;}
+.square {padding-bottom: 100%; font-size: 17px; line-height: 1.5em; background: url('/img/block-clean.png') center center no-repeat; background-size: cover; height: 270px; height: auto;}
 .square > div {white-space: nowrap;position: absolute; display: inline-block; left: 50%; top: 50%; 
     -ms-transform: translate(-50%,-50%); /* IE 9 */
     -webkit-transform: translate(-50%,-50%); /* Chrome, Safari, Opera */
@@ -347,6 +347,15 @@ label {font-weight: normal;}
     column-count: 1;
   }
   #navbar .nav {left: 128px;}
+  .square {font-size: 1.2vw; line-height: 1.5em;}
+  .square h3 {font-size: 1.6vw;}
+  .square::before {
+      width: 12.5vw;
+      height: 5vw;
+      margin-left: -80px;
+      margin-top: 150px;
+  }
+
 }
 @media all and (max-width: 1350px) {
   #instafeed {
@@ -394,6 +403,7 @@ label {font-weight: normal;}
 @media all and (max-width: 600px) {
   .mobile {display: inline-block;}
   .desktop {display: none;}
+  #popup {display: none!important;}
 }
 @media all and (max-width: 545px) {
   .gallery_images a {display: none;}
