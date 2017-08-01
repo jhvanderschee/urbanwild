@@ -218,7 +218,7 @@ a:hover {text-decoration: none;}
     padding-top: 10px; padding-bottom: 10px;
 }
 .btn-default:active:hover, .btn-default:focus, .btn-default:hover, .btn-default {opacity: 1; border: 0px solid #7c9667!important; background: #7c9667 url('/img/hout.png') center center no-repeat; background-size: cover; color: #e6e6e1; -webkit-box-shadow: none; box-shadow: none;}
-.btn-default:active:hover, .btn-default:focus, .btn-default:hover {background: #7c9667; border-color: #7c9667!important;}
+.btn-default:active:hover, .btn-default:focus, .btn-default:hover {background: #7c9667 url('/img/hout.png') center center no-repeat; background-size: cover; border-color: #7c9667!important;}
 .btn-primary:active:hover, .btn-primary:focus, .btn-primary:hover, .btn-primary {opacity: 1; border: 0px solid #7c9667!important; background: #7c9667 url('/img/hout.png') center center no-repeat; background-size: cover; color: #e6e6e1;; -webkit-box-shadow: none; box-shadow: none;}
 .btn-primary:active:hover, .btn-primary:focus, .btn-primary:hover {background: #7c9667 url('/img/hout.png') center center no-repeat; background-size: cover; color: #e6e6e1!important; border-color: #7c9667!important;}
 .btn-default:active:hover, .btn-default:hover, .btn-primary:active:hover, .btn-primary:hover {opacity: 1;}
