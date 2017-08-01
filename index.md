@@ -9,8 +9,10 @@ slider:
     image: /img/slide.jpg
     button_text: Bekijk de collectie
     button_link: /collectie
-  - title: Zuiverende planten voor gezond leven
+  - title: Luchtzuiverende planten
     image: /img/slide.jpg
     button_text: Bekijk de collectie
     button_link: /collectie
 ---
+
+
