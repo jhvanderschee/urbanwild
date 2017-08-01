@@ -1,5 +1,5 @@
 ---
-title: Calathea
+title: CALATHEA
 image: /img/plant.png
 slider:
   - title: Zuiverende planten voor gezond leven
