@@ -14,7 +14,9 @@ slider:
     image: /img/slide.jpg
     button_text: Bekijk de collectie
     button_link: /collectie
-description: Geef minimaal eenmaal per week een kopje water en let erop of de potgrond nat is.
+description: >-
+  Geef minimaal eenmaal per week een kopje water en let erop of de potgrond nat
+  is.
 origin: Indonesië
 variants:
   - title: Bicajoux Gekko
@@ -23,11 +25,10 @@ variants:
   - title: Warscewiczii
     image: /img/plant1.png
     description: Lorem ipsum...sd
-  - title: Variant 3
+  - title: Rufibarba
     image: /img/plant.png
     description: Lorem ipsum..d.
-  - title: Variant 4
-    image: /img/plant1.png
-    description: Lorem ipsum...s
 order: 1
 ---
+
+
