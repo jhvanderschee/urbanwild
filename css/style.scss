@@ -48,13 +48,20 @@ body {color: #152623; background: #f8f9f9; font-family: 'Orator', sans-serif; fo
 #myCarousel .item .container a.btn {padding-top: 10px; padding-bottom: 10px;}
 #myCarousel .item .jmplantslogo {width: 150px; position: absolute; right: 0; top: 0; margin-top: -100px; margin-right: -150px;}
 .carousel-indicators li {
-  opacity: 0.85; margin: 2px; width: 13px; height: 13px; border-color: #613812;
+  opacity: 0.85; margin: 2px; width: 13px; height: 13px; border-color: #7c9667;
   border-radius: 0;
     -ms-transform: rotate(45deg); /* IE 9 */
     -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
     transform: rotate(45deg);
+    border: 0;
+    background: #7c9667 url('/img/hout2.png') center center no-repeat; background-size: cover;
 }
-.carousel-indicators li.active {margin: 2px; width: 13px; height: 13px; background-color: #613812;}
+.carousel-indicators li:nth-child(odd) {
+    -ms-transform: rotate(-45deg); /* IE 9 */
+    -webkit-transform: rotate(-45deg); /* Chrome, Safari, Opera */
+    transform: rotate(-45deg);
+}
+.carousel-indicators li.active {margin: 2px; width: 13px; height: 13px; background: #7c9667 url('/img/groen.png') center center no-repeat; background-size: cover;}
 
 .light {text-align: center; padding: 30px 0 0; color: #231F20;}
 .light ~ .light {padding-top: 0;}
@@ -200,16 +207,19 @@ a {text-decoration: underline;}
 a:hover {text-decoration: none;}
 .post-content {font-weight: normal;}
 .post-header span {margin-bottom: 10px; display: inline-block;}
-.btn {font-size: 16px; line-height: 1.8em; background: #7c9667; color: #e6e6e1; text-decoration: none; padding: 5px 20px 7px; border-radius: 0; border: 0; text-transform: uppercase; 
+.btn {font-size: 16px; line-height: 1.8em; background: #7c9667 url('/img/hout.png') center center no-repeat; background-size: cover; color: #e6e6e1; text-decoration: none; padding: 5px 20px 7px; border-radius: 0; border: 0; text-transform: uppercase; 
     -webkit-transition: all 0.2s ease;                  
     -moz-transition: all 0.2s ease;                 
     -o-transition: all 0.2s ease;   
     -ms-transition: all 0.2s ease;          
     transition: all 0.2s ease;
+    font-weight: bold;
+    letter-spacing: -1px;
+    padding-top: 10px; padding-bottom: 10px;
 }
-.btn-default:active:hover, .btn-default:focus, .btn-default:hover, .btn-default {opacity: 1; border: 1px solid #7c9667!important; background: #7c9667; color: #e6e6e1; -webkit-box-shadow: none; box-shadow: none;}
+.btn-default:active:hover, .btn-default:focus, .btn-default:hover, .btn-default {opacity: 1; border: 0px solid #7c9667!important; background: #7c9667 url('/img/hout.png') center center no-repeat; background-size: cover; color: #e6e6e1; -webkit-box-shadow: none; box-shadow: none;}
 .btn-default:active:hover, .btn-default:focus, .btn-default:hover {background: #7c9667; border-color: #7c9667!important;}
-.btn-primary:active:hover, .btn-primary:focus, .btn-primary:hover, .btn-primary {opacity: 1; border: 1px solid #7c9667!important; background: #7c9667; color: #e6e6e1;; -webkit-box-shadow: none; box-shadow: none;}
+.btn-primary:active:hover, .btn-primary:focus, .btn-primary:hover, .btn-primary {opacity: 1; border: 0px solid #7c9667!important; background: #7c9667 url('/img/hout.png') center center no-repeat; background-size: cover; color: #e6e6e1;; -webkit-box-shadow: none; box-shadow: none;}
 .btn-primary:active:hover, .btn-primary:focus, .btn-primary:hover {background: #7c9667; color: #e6e6e1!important; border-color: #7c9667!important;}
 .btn-default:active:hover, .btn-default:hover, .btn-primary:active:hover, .btn-primary:hover {opacity: 1;}
 .btn:active:hover, .btn:focus, .btn:hover {color: #e6e6e1;}
@@ -326,6 +336,10 @@ label {font-weight: normal;}
 }
 .jmplants .floatright {float: right;}
 .plant #gallery {padding-top: 20px;}
+#over {background: url('/img/vlek.png') calc(50% - 520px) 75% no-repeat; background-size: 260px auto;}
+#luchtzuiverend {background: url('/img/vlek.png') 55% 35% no-repeat; background-size: 260px auto;}
+
+
 @media all and (max-width: 1700px) {
 }
 @media all and (max-width: 1000px) {
