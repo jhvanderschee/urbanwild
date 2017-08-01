@@ -4,7 +4,7 @@ layout: collectie
 slider:
   - title: Onze collectie
     image: /uploads/slide-collectie-jmplants-1.png
-    button_text:
+    button_text: Bekijk onze collectie Alocasia
     button_link:
   - title: Zuiverende planten voor gezond leven
     image: /uploads/slide-collectie-jmplants-2.png
