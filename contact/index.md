@@ -1,5 +1,7 @@
 ---
 title: Contact
 layout: contact
-header_image: /img/kasslide.jpg
+header_image: /uploads/slider-contact.png
 ---
+
+
