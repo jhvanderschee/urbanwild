@@ -42,4 +42,4 @@ order: 1
 ---
 
 
-Geef minimaal eenmaal per week een kopje water. Let erop of de potgrond nat is, dan vindt de plant het goed. Droge grond? Dan mag je rustig twee of drie keer in de week gieten.
+Het is een plant die zich thuisvoelt in de tropen van Zuid- en Midden-Amerika, maar ook in de Europese huiskamers: de Dieffenbachia. Vooral de bijzondere tekening van de bladeren maakt de Dieffenbachia zo geliefd. Elke soort heeft weer andere bladeren, met tinten die vari&euml;ren tussen groen in vele tinten, geel en wit. Bovendien haal je meteen gezonde lucht in huis, want de Dieffenbachia is een 100% natuurlijke luchtzuiveraar.
