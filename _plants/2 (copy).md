@@ -26,13 +26,32 @@ origin: Indonesië
 variants:
   - title: Bicajoux Gekko
     image: /img/plant.png
-    description: Lorem ipsum.sdfdf..
+    description: >-
+      Is de ‘gewone’ Calathea al bijzonder, de Calathea Bicajoux mag gerust
+      exclusief worden genoemd. Het is een plant met bijna schilderachtige
+      tekeningen op het blad. De bloemen zijn al even fraai, met hun roze tint.
+      Wist je dat je wel 20 weken plezier kunt hebben van de bloemen?
   - title: Warscewiczii
     image: /img/plant1.png
-    description: Lorem ipsum...sd
+    description: >-
+      Deze Calathea heeft misschien wel de moeilijkste naam van allemaal, maar
+      het is ook wel een heel aparte. De bladeren zijn zacht, bijna
+      fluweelachtig. En niet voor niets heeft deze variëteit de bijnaam van
+      ‘pauwenplant’: onderaan de bladeren vind een heel decoratieve paarse
+      kleur, gecombineerd met diepgroen aan de oppervlakte.
   - title: Rufibarba
     image: /img/plant.png
-    description: Lorem ipsum..d.
+    description: >-
+      Opvallend bij deze Calathea zijn de lange, smalle bladeren met een
+      opvallende golfachtige rand. Ze zijn egaal gekleurd, lichtgroen tot
+      grijsgroen van de bovenkant en dieprood van onderen.
+  - title: Stromanthe Sanguinea Triostar
+    image: /img/plant1.png
+    description: >-
+      Triostar’ is niet toevallig de soortnaam van deze Calathea: het is een
+      soort met drie kleuren in het blad, die speelse combinaties vormen. De
+      bladeren zijn afwisselend roze, wit en groen en dat maakt deze Calathea
+      altijd weer anders.
 order: 1
 ---
 
