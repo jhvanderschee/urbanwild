@@ -1,6 +1,6 @@
 ---
 title: DRACENA
-image: /img/plant.png
+image: /img/20151012624-Draceana Lemon Lime.jpg
 slider:
   - title: Zuiverende planten voor gezond leven
     image: /img/slide.jpg
@@ -21,7 +21,7 @@ description: >-
 origin: Indonesië
 variants:
   - title: LEMON LIME
-    image: /img/plant.png
+    image: /img/20151012624-Draceana Lemon Lime.jpg
     description: >-
       De Dracaene Lemon Lime maakt elke kamer bijzonder met schitterende
       limoenkleuren. Het is een afwisseling van diep en licht groen. Dat zorgt
