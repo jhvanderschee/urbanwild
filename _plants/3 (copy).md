@@ -1,6 +1,6 @@
 ---
 title: ALOCASIA
-image: /img/20151012542-Aglaonema Silver Bay.jpg
+image: /img/20151012609-Alocasia Cucullata.jpg
 slider:
   - title: Zuiverende planten voor gezond leven
     image: /img/slide.jpg
