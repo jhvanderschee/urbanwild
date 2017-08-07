@@ -1,7 +1,7 @@
 ---
 title: Contact
 layout: contact
-header_image: /uploads/slider-contact.png
+header_image: /uploads/slider-contact.jpg
 ---
 
 

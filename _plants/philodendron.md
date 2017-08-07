@@ -1,0 +1,49 @@
+---
+title: PHILODENDRON
+image: /uploads/20151012592-Philodendron imperial red.jpg
+slider:
+  - title: Zuiverende planten voor gezond leven
+    image: /img/slide.jpg
+    button_text: Bekijk de collectie
+    button_link: /collectie
+  - title: Zuiverende planten voor gezond leven
+    image: /img/slide.jpg
+    button_text: Bekijk de collectie
+    button_link: /collectie
+  - title: Zuiverende planten voor gezond leven
+    image: /img/slide.jpg
+    button_text: Bekijk de collectie
+    button_link: /collectie
+description: >-
+  Philodendron is een plant met heel veel familieleden: wel meer dan honderd,
+  die allemaal voorkomen in Midden- en Zuid-Amerika. Opvallend zijn de grote,
+  stevige bladeren die de plant een heel eigen karakter geven. Elke Philodendron
+  heeft weer andere bladeren, van ovaal en spits tot hartvormig. Er zijn
+  meerdere groentinten, maar ook zelfs rode varianten. En met een beetje gemak
+  groeit de plant heel snel uit tot een flink formaat!
+origin: Indonesië
+variants:
+  - title: IMPERIAL RED
+    image: /uploads/20151012592-Philodendron imperial red.jpg
+    description: >-
+      Als er één Philodendron decoratief is, is het wel deze: de Imperial Red.
+      De kleur is dieprood, bijna paars. Met z’n grote bladeren is het een echte
+      blikvanger in huis. En ook een soort dat heel snel groeit.
+  - title: IMPERIAL GREEN
+    image: /uploads/20151012583- Philodendron imperial green.jpg
+    description: >-
+      De Philodendron Imperial Green is familie van de Imperial Red, maar dan
+      helemaal in het groen. Het heldergroene blad geeft elke kamer meteen een
+      jungle-uitstraling mee. Met de juiste verzorging is het nét zo’n snelle
+      groeier.
+  - title: XANADU
+    image: /uploads/20151012600-Philodendron Xanadu.jpg
+    description: >-
+      De Philodendron is er ook in een compacte, volle uitvoering: de Xanadu. En
+      kijk niet verrast op als het soort later heel opvallende luchtwortels
+      krijgt!
+order: 1
+---
+
+
+Philodendron is een plant met heel veel familieleden: wel meer dan honderd, die allemaal voorkomen in Midden- en Zuid-Amerika. Opvallend zijn de grote, stevige bladeren die de plant een heel eigen karakter geven. Elke Philodendron heeft weer andere bladeren, van ovaal en spits tot hartvormig. Er zijn meerdere groentinten, maar ook zelfs rode varianten. En met een beetje gemak groeit de plant heel snel uit tot een flink formaat!

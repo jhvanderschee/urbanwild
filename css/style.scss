@@ -46,7 +46,7 @@ body {color: #152623; background: #f8f9f9; font-family: 'Orator', sans-serif; fo
 #myCarousel .item .container h2 {width: 500px; font-size: 50px; letter-spacing:  2px;}
 #myCarousel .item .container * {margin-left: 105px; position: relative; bottom: 35px;}
 #myCarousel .item .container a.btn {padding-top: 10px; padding-bottom: 10px;}
-#myCarousel .item .jmplantslogo {width: 150px; position: absolute; right: 0; top: 0; margin-top: -100px; margin-right: -150px;}
+#myCarousel .item .jmplantslogo {width: 150px; position: absolute; right: 50%; top: 0; margin-top: 50px; margin-right: -750px;}
 .carousel-indicators li {
   opacity: 0.85; margin: 2px; width: 13px; height: 13px; border-color: #7c9667;
   border-radius: 0;
@@ -101,7 +101,7 @@ body {color: #152623; background: #f8f9f9; font-family: 'Orator', sans-serif; fo
 .square .jmplantslogo {width: 130px;}
 
 b, strong {font-weight: normal;}
-#map {border: 0px solid #231F20; cursor: pointer; height: 335px; background: url('/img/map.png') center center no-repeat; background-size: cover; margin-bottom: 0px;}
+#map {border: 0px solid #231F20; cursor: pointer; height: 335px; background: url('/uploads/map.jpg') center center no-repeat; background-size: cover; margin-bottom: 0px;}
 #map img {margin-top: 60px; height: 120px; opacity: 0.85;}
 
 footer {line-height: 20px;}
@@ -271,7 +271,7 @@ label {font-weight: normal;}
     -webkit-box-shadow: none;
     box-shadow: none;
 }
-#popup {display: none; cursor: pointer; z-index: 9999999999; padding-top: 35px;  text-align: center; font-size: 22px; line-height: 1.8em; color: #e6e6e1; bottom: 20px; right: 20px; position: fixed; width: 350px; height: 200px; background: url(/img/popup.png) center top no-repeat; background-size: cover;}
+#popup {display: none; cursor: pointer; z-index: 9999999999; padding-top: 35px;  text-align: center; font-size: 22px; line-height: 1.8em; color: #e6e6e1; bottom: 20px; right: 20px; position: fixed; width: 350px; height: 200px; background: url(/uploads/popup.jpg) center top no-repeat; background-size: cover;}
 #closepopup {position: absolute; right: 8px; top: 0px; margin-top: -4px; cursor: pointer; font-weight: bold;}
 
 .care_icon {width: 65px; display: inline-block; margin: 15px 20px 5px 0; cursor: pointer;}
@@ -395,6 +395,8 @@ label {font-weight: normal;}
       width: 125%;
   }
   #popup {bottom: calc(-25vh + 20px);}
+  #splash {height: 125%; width: 125%;}
+  #splash table {height: 125%; width: 125%;}
 }
 @media all and (min-width: 2000px) {
   html {
@@ -407,6 +409,8 @@ label {font-weight: normal;}
       width: 111.5%;
   }
   #popup {bottom: calc(-11.5vh + 20px);}
+  #splash {height: 111.5%; width: 111.5%;}
+  #splash table {height: 111.5%; width: 111.5%;}
 }
 @media all and (max-width: 991px) {
   form, .twocols .post-content p {padding-right: 0px;}
