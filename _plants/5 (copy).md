@@ -22,7 +22,10 @@ origin: Indonesië
 variants:
   - title: LEMON LIME
     image: /img/plant.png
-    description: Lorem ipsum...
+    description: >-
+      De Dracaene Lemon Lime maakt elke kamer bijzonder met schitterende
+      limoenkleuren. Het is een afwisseling van diep en licht groen. Dat zorgt
+      voor een sierlijk effect.
 order: 1
 ---
 
