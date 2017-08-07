@@ -1,6 +1,6 @@
 ---
 title: CALATHEA
-image: /img/plant.png
+image: /img/20151012491 Calathea- Warscewiczii.jpg
 slider:
   - title: Zuiverende planten voor gezond leven
     image: /img/slide.jpg
