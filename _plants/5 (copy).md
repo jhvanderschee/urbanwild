@@ -15,8 +15,9 @@ slider:
     button_text: Bekijk de collectie
     button_link: /collectie
 description: >-
-  Geef minimaal eenmaal per week een kopje water en let erop of de potgrond nat
-  is.
+  De Dracaene Lemon Lime maakt elke kamer bijzonder met schitterende
+  limoenkleuren. Het is een afwisseling van diep en licht groen. Dat zorgt voor
+  een sierlijk effect.
 origin: Indonesië
 variants:
   - title: LEMON LIME
@@ -26,4 +27,4 @@ order: 1
 ---
 
 
-Geef minimaal eenmaal per week een kopje water. Let erop of de potgrond nat is, dan vindt de plant het goed. Droge grond? Dan mag je rustig twee of drie keer in de week gieten.
+De Dracaene Lemon Lime maakt elke kamer bijzonder met schitterende limoenkleuren. Het is een afwisseling van diep en licht groen. Dat zorgt voor een sierlijk effect.
