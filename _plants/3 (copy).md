@@ -1,6 +1,6 @@
 ---
 title: ALOCASIA
-image: /img/plant.png
+image: /img/20151012542-Aglaonema Silver Bay.jpg
 slider:
   - title: Zuiverende planten voor gezond leven
     image: /img/slide.jpg
@@ -31,7 +31,7 @@ variants:
       wat weg heeft van de Portadora. Met zijn diep donkergroene blad trekt deze
       Alocasia meteen bewonderende blikken in de kamer. En terecht!
   - title: CUCULLATA
-    image: /img/plant1.png
+    image: /img/20151012609-Alocasia Cucullata.jpg
     description: >-
       Deze variëteit van de Alocasia heeft bladeren die wijd uiteen staan.
       Daarmee is het plant die overal in het oog springt. En wist je het een
