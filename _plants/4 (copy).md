@@ -24,12 +24,12 @@ description: >-
 origin: Zuid- en Midden-Amerika
 variants:
   - title: REFLECTOR
-    image: /img/plant.png
+    image: /img/20151012568-Dieffenbachia Reflector.jpg
     description: >-
       Bij de Dieffenbachia Reflector gaan groen en lichtgroen fraai samen in het
       blad. Let ook eens op de mooie tekening.
   - title: VESUVIUS
-    image: /img/plant1.png
+    image: /img/20151012618-Dieffenbachia Vesuvius.jpg
     description: >-
       De Dieffenbachia Vesuvius is een van de lichter gekleurde varianten. Het
       licht groene blad heeft heel veel schakeringen.
