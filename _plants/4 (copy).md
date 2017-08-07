@@ -34,7 +34,7 @@ variants:
       De Dieffenbachia Vesuvius is een van de lichter gekleurde varianten. Het
       licht groene blad heeft heel veel schakeringen.
   - title: GREEN MAGIC
-    image: /img/plant.png
+    image: /img/20151012563-Dieffenbachia Green Magic.jpg
     description: >-
       Niet voor niets heet deze variant Green Magic: het lijkt wel of er heel
       creatief een witte streep in het blad is getrokken!
