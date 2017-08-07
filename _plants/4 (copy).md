@@ -1,6 +1,6 @@
 ---
 title: DIEFFENBACHIA
-image: /img/plant.png
+image: /img/20151012563-Dieffenbachia Green Magic.jpg
 slider:
   - title: Zuiverende planten voor gezond leven
     image: /img/slide.jpg
@@ -21,7 +21,7 @@ description: >-
   weer andere bladeren, met tinten die variëren tussen groen in vele tinten,
   geel en wit. Bovendien haal je meteen gezonde lucht in huis, want de
   Dieffenbachia is een 100% natuurlijke luchtzuiveraar.
-origin: Indonesië
+origin: Zuid- en Midden-Amerika
 variants:
   - title: REFLECTOR
     image: /img/plant.png
