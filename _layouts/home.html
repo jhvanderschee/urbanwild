@@ -40,7 +40,7 @@
                 <div class="plant item{{ forloop.index }}" style="background: white url('{{ item.image }}') center center no-repeat; background-size: contain;" onclick="window.location.href='{{ item.url }}'"></div>
                 <div class="square" onclick="window.location.href='{{ item.url }}'"><div style="text-align: center;"><h3>{{ item.title }}</h3>
                 {% for subitem in item.variants %}
-                  {% if forloop.index == 1 %}{{ forloop.length }} variants{% endif %}
+                  {% if forloop.index == 1 %}{{ forloop.length }} variant{% if forloop.length > 1 %}s{% endif %}{% endif %}
                 {% endfor %}</div></div>
               {% else %}
                 <div class="square" onclick="window.location.href='{{ item.url }}'"><div style="text-align: center;"><h3>{{ item.title }}</h3>
