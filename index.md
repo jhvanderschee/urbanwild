@@ -1,7 +1,7 @@
 ---
 layout: home
 slider:
-  - title: WORD WILD MET URBAN WILD!
+  - title: HUIZEN ZIJN ER HELEMAAL WILD VAN!
     image: /img/slide.jpg
     button_text: Bekijk de collectie
     button_link: /collectie
