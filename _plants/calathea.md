@@ -47,10 +47,11 @@ variants:
   - title: Stromanthe Sanguinea Triostar
     image: /uploads/20151012521-Calathea Stromanthe sanguinea Triostar.jpg
     description: >-
-      Triostar’ is niet toevallig de soortnaam van deze Calathea: het is een
+      ‘Triostar’ is niet toevallig de soortnaam van deze Calathea: het is een
       soort met drie kleuren in het blad, die speelse combinaties vormen. De
       bladeren zijn afwisselend roze, wit en groen en dat maakt deze Calathea
-      altijd weer anders.
+      altijd weer anders. Vooral met kunstlicht kan een mooie roze gloed
+      ontstaan.
 order: 1
 ---
 
