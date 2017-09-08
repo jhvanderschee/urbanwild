@@ -14,7 +14,7 @@ slider:
     image: /img/slide.jpg
     button_text: Bekijk de collectie
     button_link: /collectie
-description: De Calathea staat erom bekend alsof de bladeren 'fluisteren'.
+description: De Calathea staat erom bekend dat de bladeren lijken te 'fluisteren'.
 origin: Zuid Amerika
 variants:
   - title: Bicajoux Gekko
