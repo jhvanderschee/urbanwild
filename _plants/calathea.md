@@ -44,13 +44,7 @@ variants:
     description: >-
       Opvallend bij deze Calathea zijn de lange, smalle bladeren met een
       opvallende golfachtige rand. Ze zijn egaal gekleurd, lichtgroen tot
-      grijsgroen van de bovenkant en dieprood van onderen. De Calathea komt
-      oorspronkelijk uit het oerwoud rond de Amazone in Zuid-Amerika. Groeit
-      daar in de onderste laag van het oerwoud waar veel schaduw is. Mag ook
-      thuis wat meer schaduw hebben. Plant met schitterende tekeningen en vormen
-      op de bladeren. Extra bijzonder doordat de plant ‘fluistert’: ’s morgens
-      gaan de bladeren met licht geritsel open, ’s avonds sluiten ze zich ook
-      weer. Plant die erom bekend staat de lucht te zuiveren.
+      grijsgroen van de bovenkant en dieprood van onderen.
   - title: Stromanthe Sanguinea Triostar
     image: /uploads/20151012521-Calathea Stromanthe sanguinea Triostar.jpg
     description: >-
