@@ -14,7 +14,9 @@ slider:
     image: /img/slide.jpg
     button_text: Bekijk de collectie
     button_link: /collectie
-description: De Calathea staat erom bekend alsof de bladeren 'fluisteren'.
+description: >-
+  De Calathea staat erom bekend alsof de bladeren 'fluisteren' en zuivert de
+  lucht.
 origin: Zuid Amerika
 variants:
   - title: Bicajoux Gekko
