@@ -14,14 +14,8 @@ slider:
     image: /img/slide.jpg
     button_text: Bekijk de collectie
     button_link: /collectie
-description: >-
-  Philodendron is een plant met heel veel familieleden: wel meer dan honderd,
-  die allemaal voorkomen in Midden- en Zuid-Amerika. Opvallend zijn de grote,
-  stevige bladeren die de plant een heel eigen karakter geven. Elke Philodendron
-  heeft weer andere bladeren, van ovaal en spits tot hartvormig. Er zijn
-  meerdere groentinten, maar ook zelfs rode varianten. En met een beetje gemak
-  groeit de plant heel snel uit tot een flink formaat!
-origin: Indonesië
+description: De Pilodendronfamilie is er één om niet snel te vergeten!
+origin: Midden en Zuid Amerika
 variants:
   - title: IMPERIAL RED
     image: /uploads/20151012592-Philodendron imperial red.jpg
@@ -46,4 +40,4 @@ order: 1
 ---
 
 
-Philodendron is een plant met heel veel familieleden: wel meer dan honderd, die allemaal voorkomen in Midden- en Zuid-Amerika. Opvallend zijn de grote, stevige bladeren die de plant een heel eigen karakter geven. Elke Philodendron heeft weer andere bladeren, van ovaal en spits tot hartvormig. Er zijn meerdere groentinten, maar ook zelfs rode varianten. En met een beetje gemak groeit de plant heel snel uit tot een flink formaat!
+De Pilodendronfamilie is er &eacute;&eacute;n om niet snel te vergeten!
