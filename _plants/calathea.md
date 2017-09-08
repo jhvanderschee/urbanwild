@@ -14,23 +14,23 @@ slider:
     image: /img/slide.jpg
     button_text: Bekijk de collectie
     button_link: /collectie
-description: De Calathea staat bekend alsof de bladeren 'fluisteren'.
+description: De Calathea staat erom bekend alsof de bladeren 'fluisteren'.
 origin: Zuid Amerika
 variants:
   - title: Bicajoux Gekko
     image: /uploads/20151012294- Calathea Bicajoux Gekko- 1 cm.jpg
     description: >-
-      De Calathea komt oorspronkelijk uit het oerwoud rond de Amazone in
+      Is de ‘gewone’ Calathea al bijzonder, de Calathea Bicajoux mag gerust
+      exclusief worden genoemd. Het is een plant met bijna schilderachtige
+      tekeningen op het blad. De bloemen zijn al even fraai, met hun roze tint.
+      Wist je dat je wel 20 weken plezier kunt hebben van de bloemen? De
+      Calathea komt oorspronkelijk uit het oerwoud rond de Amazone in
       Zuid-Amerika. Groeit daar in de onderste laag van het oerwoud waar veel
       schaduw is. Mag ook thuis wat meer schaduw hebben. Plant met schitterende
       tekeningen en vormen op de bladeren. Extra bijzonder doordat de plant
       ‘fluistert’: ’s morgens gaan de bladeren met licht geritsel open, ’s
       avonds sluiten ze zich ook weer. Plant die erom bekend staat de lucht te
-      zuiveren. Is de ‘gewone’ Calathea al bijzonder, de Calathea Bicajoux mag
-      gerust exclusief worden genoemd. Het is een plant met bijna
-      schilderachtige tekeningen op het blad. De bloemen zijn al even fraai, met
-      hun roze tint. Wist je dat je wel 20 weken plezier kunt hebben van de
-      bloemen?
+      zuiveren.
   - title: Warscewiczii
     image: /uploads/20151012491 Calathea- Warscewiczii.jpg
     description: >-
