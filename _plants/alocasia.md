@@ -33,15 +33,11 @@ variants:
   - title: CUCULLATA
     image: /uploads/20151012609-Alocasia Cucullata.jpg
     description: >-
-      Doet ‘Alocasia’ geen belletje bij je rinkelen? Het is de chique Latijnse
-      naam voor de plant die bij ons gewoon ‘Olifantsoor’ heet. En je snapt
-      meteen waarom: het is een plant met forse bladeren, die een beetje doen
-      denken aan de oren van een olifant. Daarmee is het een pracht van een
-      plant als je flink de ruimte hebt in een kamer. De Alocasia Cucullata
-      heeft bladeren die wijd uiteen staan. Daarmee is het een plant die overal
-      in het oog springt. En wist je dat het een Alocasia is die ook onder mild
-      winterse omstandigheden buiten kan overleven , op een beschut plekje? Het
-      blad zal af vallen, maar dat keert in de lente gewoon weer terug.
+      De Alocasia Cucullata  heeft bladeren die wijd uiteen staan. Daarmee is
+      het een plant die overal in het oog springt. De Alocasia wordt ook wel
+      ‘Olifantsoor’ genoemd. En wist je dat het een Alocasia is die ook onder
+      mild winterse omstandigheden buiten kan overleven, op een beschut plekje?
+      Het blad zal af vallen, maar dat keert in de lente gewoon weer terug.
 order: 1
 ---
 
