@@ -19,9 +19,8 @@ description: >-
   daarin de onderste laag van het oerwoud waar veel schaduw is. Mag ook thuis
   wat meer schaduw  hebben. Plant met schitterende tekeningen en vormen op de
   bladeren. Extra bijzonder doordat de plant ‘fluistert: ’s morgens gaan de
-  bladeren met licht geritsel open, ’s avonds sluiten ze zich ook weer.
-
-  Plant die erom bekend staat de lucht te zuiveren. Liefhebber van schaduw!
+  bladeren met licht geritsel open, ’s avonds sluiten ze zich ook weer.Plant die
+  erom bekend staat de lucht te zuiveren. Liefhebber van schaduw!
 origin: Indonesië
 variants:
   - title: Bicajoux Gekko
@@ -37,7 +36,7 @@ variants:
       Deze Calathea heeft misschien wel de moeilijkste naam van allemaal, maar
       het is ook wel een heel aparte. De bladeren zijn zacht, bijna
       fluweelachtig. En niet voor niets heeft deze variëteit de bijnaam van
-      ‘pauwenplant’: onderaan de bladeren vind een heel decoratieve paarse
+      ‘pauwenplant’: onderaan de bladeren vind je een heel decoratieve paarse
       kleur, gecombineerd met diepgroen aan de oppervlakte.
   - title: Rufibarba
     image: /uploads/20151012530-Calathea Rufibarba.jpg
