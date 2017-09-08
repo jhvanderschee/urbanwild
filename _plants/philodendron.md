@@ -40,7 +40,7 @@ variants:
     description: >-
       De Philodendron is er ook in een compacte, volle uitvoering: de Xanadu. En
       kijk niet verrast op als het soort later heel opvallende luchtwortels
-      krijgt!
+      krijgt! Bij deze plant geldt: hoe ouder hoe mooier!
 order: 1
 ---
 
