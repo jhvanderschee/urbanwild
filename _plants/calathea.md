@@ -52,13 +52,7 @@ variants:
       soort met drie kleuren in het blad, die speelse combinaties vormen. De
       bladeren zijn afwisselend roze, wit en groen en dat maakt deze Calathea
       altijd weer anders. Vooral met kunstlicht kan een mooie roze gloed
-      ontstaan. De Calathea Kkomt oorspronkelijk uit het oerwoud rond de Amazone
-      in Zuid-Amerika. Groeit daar in de onderste laag van het oerwoud waar veel
-      schaduw is. Mag ook thuis wat meer schaduw hebben. Plant met schitterende
-      tekeningen en vormen op de bladeren. Extra bijzonder doordat de plant
-      ‘fluistert’: ’s morgens gaan de bladeren met licht geritsel open, ’s
-      avonds sluiten ze zich ook weer. Plant die erom bekend staat de lucht te
-      zuiveren.
+      ontstaan.
 order: 1
 ---
 
