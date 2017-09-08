@@ -14,7 +14,7 @@ slider:
     image: /img/slide.jpg
     button_text: Bekijk de collectie
     button_link: /collectie
-description: De Biophytum Sensitivum lijkt wel een minipalm.
+description: De Biophytum Sensitivum lijkt net een minipalm.
 origin: Brazilië
 variants:
   - title: SENSITIVUM
