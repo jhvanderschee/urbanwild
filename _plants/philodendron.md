@@ -20,16 +20,21 @@ variants:
   - title: IMPERIAL RED
     image: /uploads/20151012592-Philodendron imperial red.jpg
     description: >-
-      Als er één Philodendron decoratief is, is het wel deze: de Imperial Red.
-      De kleur is dieprood, bijna paars. Met z’n grote bladeren is het een echte
-      blikvanger in huis. En ook een soort dat heel snel groeit.
+      Philodendron is een plant met heel veel familieleden: wel meer dan
+      honderd, die allemaal voorkomen in Midden- en Zuid-Amerika. Opvallend zijn
+      de grote, stevige bladeren die de plant een heel eigen karakter geven.
+      Elke Philodendron heeft weer andere bladeren, van ovaal en spits tot
+      hartvormig. Er zijn meerdere groentinten, maar ook zelfs rode varianten.
+      En met een beetje gemak groeit deze oersterke plant uit tot een flink
+      formaat!  En als er één Philodendron decoratief is, is het wel deze: de
+      Imperial Red. De kleur is dieprood, bijna paars. Met z’n grote bladeren is
+      het een echte blikvanger in huis.
   - title: IMPERIAL GREEN
     image: /uploads/20151012583- Philodendron imperial green.jpg
     description: >-
       De Philodendron Imperial Green is familie van de Imperial Red, maar dan
       helemaal in het groen. Het heldergroene blad geeft elke kamer meteen een
-      jungle-uitstraling mee. Met de juiste verzorging is het nét zo’n snelle
-      groeier.
+      jungle-uitstraling mee. Deze topper is super gemakkelijk te verzorgen.
   - title: XANADU
     image: /uploads/20151012600-Philodendron Xanadu.jpg
     description: >-
@@ -40,4 +45,4 @@ order: 1
 ---
 
 
-De Pilodendronfamilie is er &eacute;&eacute;n om niet snel te vergeten!
+De Pilodendronfamilie is er één om niet snel te vergeten!
