@@ -2,7 +2,7 @@
 layout: home
 slider:
   - title: HUIZEN ZIJN ER HELEMAAL WILD VAN!
-    image: /img/slide.jpg
+    image: /img/sliderhome-jmplants-1.png
     button_text: Bekijk de collectie
     button_link: /collectie
   - title: Zuiverende planten voor gezond leven
