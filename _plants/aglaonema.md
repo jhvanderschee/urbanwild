@@ -14,12 +14,8 @@ slider:
     image: /img/slide.jpg
     button_text: Bekijk de collectie
     button_link: /collectie
-description: >-
-  De Aglaonema 'Silver Bay'heeft een zilvergrijze tekening op donkergroene
-  bladeren: gewoonweg schitterend om te zien. Bovendien is het een heel sterke
-  bladplant, één die zich letterlijk staande weet te houden in de tropische
-  oerwouden van Azië. De plant groeit heel compact, met een vol resultaat.
-origin: Indonesië
+description:
+origin:
 variants:
   - title: SILVER BAY
     image: /uploads/20151012542-Aglaonema Silver Bay.jpg
