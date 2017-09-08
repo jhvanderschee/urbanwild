@@ -44,12 +44,6 @@ variants:
       thuis wat meer schaduw hebben. Plant met schitterende tekeningen en vormen
       op de bladeren. Extra bijzonder doordat de plant ‘fluistert’: ’s morgens
       gaan de bladeren met licht geritsel open, ’s avonds sluiten ze zich ook
-      weer. Plant die erom bekend staat de lucht te zuiveren.De Calathea komt
-      oorspronkelijk uit het oerwoud rond de Amazone in Zuid-Amerika. Groeit
-      daar in de onderste laag van het oerwoud waar veel schaduw is. Mag ook
-      thuis wat meer schaduw hebben. Plant met schitterende tekeningen en vormen
-      op de bladeren. Extra bijzonder doordat de plant ‘fluistert’: ’s morgens
-      gaan de bladeren met licht geritsel open, ’s avonds sluiten ze zich ook
       weer. Plant die erom bekend staat de lucht te zuiveren.
   - title: Rufibarba
     image: /uploads/20151012530-Calathea Rufibarba.jpg
