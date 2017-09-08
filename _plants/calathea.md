@@ -14,14 +14,8 @@ slider:
     image: /img/slide.jpg
     button_text: Bekijk de collectie
     button_link: /collectie
-description: >-
-  Komt oorspronkelijk uit het oerwoud rond de Amazone in Zuid-Amerika. Groeit
-  daarin de onderste laag van het oerwoud waar veel schaduw is. Mag ook thuis
-  wat meer schaduw  hebben. Plant met schitterende tekeningen en vormen op de
-  bladeren. Extra bijzonder doordat de plant ‘fluistert: ’s morgens gaan de
-  bladeren met licht geritsel open, ’s avonds sluiten ze zich ook weer.Plant die
-  erom bekend staat de lucht te zuiveren. Liefhebber van schaduw!
-origin: Indonesië
+description: De Calathea staat bekend alsof de bladeren 'fluisteren'.
+origin: Midden en Zuid Amerika
 variants:
   - title: Bicajoux Gekko
     image: /uploads/20151012294- Calathea Bicajoux Gekko- 1 cm.jpg
