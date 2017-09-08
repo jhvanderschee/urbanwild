@@ -14,13 +14,7 @@ slider:
     image: /img/slide.jpg
     button_text: Bekijk de collectie
     button_link: /collectie
-description: >-
-  Het is een plant die zich thuisvoelt in de tropen van Zuid- en Midden-Amerika,
-  maar ook in de Europese huiskamers: de Dieffenbachia. Vooral de bijzondere
-  tekening van de bladeren maakt de Dieffenbachia zo geliefd. Elke soort heeft
-  weer andere bladeren, met tinten die variëren tussen groen in vele tinten,
-  geel en wit. Bovendien haal je meteen gezonde lucht in huis, want de
-  Dieffenbachia is een 100% natuurlijke luchtzuiveraar.
+description: Met een Dieffenbachia in huis zuiver je meteen de lucht!
 origin: Zuid- en Midden-Amerika
 variants:
   - title: REFLECTOR
@@ -42,4 +36,4 @@ order: 1
 ---
 
 
-Het is een plant die zich thuisvoelt in de tropen van Zuid- en Midden-Amerika, maar ook in de Europese huiskamers: de Dieffenbachia. Vooral de bijzondere tekening van de bladeren maakt de Dieffenbachia zo geliefd. Elke soort heeft weer andere bladeren, met tinten die vari&euml;ren tussen groen in vele tinten, geel en wit. Bovendien haal je meteen gezonde lucht in huis, want de Dieffenbachia is een 100% natuurlijke luchtzuiveraar.
+Met een Dieffenbachia in huis zuiver je meteen de lucht!
