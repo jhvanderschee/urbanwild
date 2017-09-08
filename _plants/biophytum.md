@@ -30,4 +30,3 @@ order: 1
 ---
 
 
-De Biophytum sensitivum is een plant die ook wel de minipalm wordt genoemd. En het ‘sensitivum’ slaat op een heel bijzondere eigenschap: raak de plant voorzichtig aan en je ziet de bladeren bewegen! Schrik niet als tegen de avond de bladeren wat slapjes worden: dat is normaal. In de Oosterse cultuur wordt de plant gewaardeerd om de medicinale eigenschappen.
