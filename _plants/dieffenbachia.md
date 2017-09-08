@@ -27,7 +27,7 @@ variants:
       tussen groen in vele tinten, geel en wit. Bovendien haal je meteen gezonde
       lucht in huis, want de Dieffenbachia is een 100% natuurlijke
       luchtzuiveraar. Bij de Dieffenbachia Reflector gaan groen en lichtgroen
-      fraai samen in het blad. Let ook eens op de mooie tekening.
+      fraai samen in het blad.
   - title: VESUVIUS
     image: /uploads/20151012618-Dieffenbachia Vesuvius.jpg
     description: >-
