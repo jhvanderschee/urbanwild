@@ -9,10 +9,10 @@ slider:
     image: /img/slide.jpg
     button_text: Bekijk de collectie
     button_link: /collectie
-  - title: Doe uw huis een plezier. Maak er een jungle van.
+  - title: Hou je jungle wild!
     image: /img/slide.jpg
-    button_text: Bekijk de collectie
-    button_link: /collectie
+    button_text: Bekijk de verzorgingstips
+    button_link: 'http://wonderful-fog.cloudvent.net/verzorging'
 ---
 
 
