@@ -6,7 +6,7 @@ slider:
     button_text: Bekijk de collectie
     button_link: /collectie
   - title: Zuiverende planten voor gezond leven
-    image: /img/slide.jpg
+    image: /img/slider_monstera.jpg
     button_text: Bekijk de collectie
     button_link: /collectie
   - title: Hou je jungle wild!
