@@ -10,7 +10,7 @@ slider:
     button_text: Ontdek wat planten jou bieden
     button_link: '/#luchtzuiverend'
   - title: Hou je jungle wild!
-    image: /img/slide.jpg
+    image: /img/slider_monstera.jpg
     button_text: Bekijk de verzorgingstips
     button_link: 'http://wonderful-fog.cloudvent.net/verzorging'
 ---
