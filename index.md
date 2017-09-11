@@ -6,8 +6,8 @@ slider:
     button_text: Bekijk de collectie
     button_link: /collectie
   - title: Zuiverende planten voor gezond leven
-    image: /uploads/slider-kasdeuren.jpg
-    button_text: Ontdek wat planten jouw bieden
+    image: /uploads/slider-alocasia.jpg
+    button_text: Ontdek wat planten jou bieden
     button_link: '/#luchtzuiverend'
   - title: Hou je jungle wild!
     image: /img/slide.jpg
