@@ -7,8 +7,8 @@ slider:
     button_link: /collectie
   - title: Zuiverende planten voor gezond leven
     image: /uploads/slider-monstera-bontv2.jpg
-    button_text: Bekijk de collectie
-    button_link: /collectie
+    button_text: Ontdek wat planten te bieden hebben
+    button_link: /luchtzuiverend
   - title: Hou je jungle wild!
     image: /img/slide.jpg
     button_text: Bekijk de verzorgingstips
