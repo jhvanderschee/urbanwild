@@ -38,6 +38,13 @@ variants:
       ‘Olifantsoor’ genoemd. En wist je dat het een Alocasia is die ook onder
       mild winterse omstandigheden buiten kan overleven, op een beschut plekje?
       Het blad zal af vallen, maar dat keert in de lente gewoon weer terug.
+  - title: DWARF AMAZONICA
+    image: /uploads/20151012550-Alocasia Dwarf Amazonica_website.jpg
+    description: >-
+      Z’n bijnaam is niet vriendelijk: de skeletplant! Maar z’n uitstraling des
+      te meer. Zet ‘m in de huiskamer en je hebt er een groene eyecatcher bij.
+      Hoewel, groen… het donkergroene blad wordt doorsneden door bijna witte
+      bladnerven. Decoratief? Reken maar!
 order: 1
 ---
 
