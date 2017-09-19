@@ -66,7 +66,7 @@
       <div class="item {% if forloop.index0 == 0 %}active{% endif %}" style="background: #dedede url('{{ image.image }}') center center no-repeat; background-size: cover;">
         <img class="jmplantslogo" src="/img/jmplantslogo.svg" />
         <div class="container text-left" style="position: relative;">
-          <h2>{{ image.title }}</h2>
+          <h2 {% if image.text_color == 'dark' %}style="color: #152623;"{% endif %}{% if image.text_color == 'light' %}style="color: #ffffff;"{% endif %}>{{ image.title }}</h2>
           <a href="{{ image.button_link }}" class="btn">{{ image.button_text }}</a>
         </div>
       </div>

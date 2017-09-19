@@ -4,14 +4,17 @@ image: /uploads/20151012592-Philodendron imperial red.jpg
 slider:
   - title: Zuiverende planten voor gezond leven
     image: /img/slide.jpg
+    text_color: dark
     button_text: Bekijk de collectie
     button_link: /collectie
   - title: Zuiverende planten voor gezond leven
     image: /img/slide.jpg
+    text_color: dark
     button_text: Bekijk de collectie
     button_link: /collectie
   - title: Zuiverende planten voor gezond leven
     image: /img/slide.jpg
+    text_color: dark
     button_text: Bekijk de collectie
     button_link: /collectie
 description: De Pilodendronfamilie is er één om niet snel te vergeten!
