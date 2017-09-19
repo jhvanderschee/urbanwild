@@ -20,7 +20,7 @@
             </div> 
         </div>
         <div class="row">
-            <div class="col-lg-12 text-left editable"><p>Doe uw huis een plezier. Maak er een jungle van. Een groene jungle van stoere, sterke planten. Want groen zorgt niet alleen voor sfeer in huis, maar ook voor gezonde lucht. Die planten hebben een naam: Urban Wild. Het is een collectie van speciaal geselecteerde groene planten die huizen groen en mensen blij maken. Urban Wild is een label van JM Plants, groeneplantenkenners van huis uit.</p></div>
+            <div class="col-lg-12 text-left editable"><p><strong>Haal de jungle in huis. Een jungle met grote verfrissend groene planten. &nbsp;Stoere planten, bijzondere soorten. Maak het spannend thuis met Urban Wild. Als je durft tenminste...</strong></p></div>
           </div>
       </div>
     </div>
@@ -40,12 +40,12 @@
                 <div class="plant item{{ forloop.index }}" style="background: white url('{{ item.image }}') center center no-repeat; background-size: contain;" onclick="window.location.href='{{ item.url }}'"></div>
                 <div class="square" onclick="window.location.href='{{ item.url }}'"><div style="text-align: center;"><h3>{{ item.title }}</h3>
                 {% for subitem in item.variants %}
-                  {% if forloop.index == 1 %}{{ forloop.length }} variants{% endif %}
+                  {% if forloop.index == 1 %}{{ forloop.length }} variant{% if forloop.length > 1 %}s{% endif %}{% endif %}
                 {% endfor %}</div></div>
               {% else %}
                 <div class="square" onclick="window.location.href='{{ item.url }}'"><div style="text-align: center;"><h3>{{ item.title }}</h3>
                 {% for subitem in item.variants %}
-                  {% if forloop.index == 1 %}{{ forloop.length }} variants{% endif %}
+                  {% if forloop.index == 1 %}{{ forloop.length }} variant{% if forloop.length > 1 %}s{% endif %}{% endif %}
                 {% endfor %}</div></div>
                 <div class="plant item{{ forloop.index }}" style="background: white url('{{ item.image }}') center center no-repeat; background-size: contain;" onclick="window.location.href='{{ item.url }}'"></div>
               {% endif %}
