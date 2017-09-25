@@ -6,10 +6,10 @@ slider:
     image: /uploads/slide-collectie-jmplants-2.jpg
     text_color: light
     button_text: Bekijk onze collectie Alocasia
-    button_link:
+    button_link: 'http://wonderful-fog.cloudvent.net/plants/alocasia.html'
   - title: Wie wil deze beauty nou niet?
-    image: /uploads/slider-monstera-bont.jpg
-    text_color: dark
+    image: /uploads/slide_monstera_mos.jpg
+    text_color: light
     button_text: Bekijk onze monsterlijk mooie collectie
     button_link: /collectie
   - title: Zuiverende planten voor gezond leven
