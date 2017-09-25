@@ -7,7 +7,7 @@ slider:
     button_text: Bekijk de collectie
     button_link: /collectie
   - title: Zuiverende planten voor gezond leven
-    image: /uploads/slider_dieffenbachia.jpg
+    image: /uploads/slide_dieffenbachia.jpg
     text_color: light
     button_text: Ontdek wat planten jou bieden
     button_link: '/#luchtzuiverend'
