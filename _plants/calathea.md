@@ -76,6 +76,13 @@ variants:
       donkergroene lijntjes aan weerszijden van de middennerf.  Ook de onderkant
       van het blad is het bestuderen waard: die is zilverwit met rood-paarse
       vlekken.
+  - title: Ornata
+    image: /uploads/calathea-sanderiana-ornata.jpg
+    description: >-
+      Blikvanger in elke kamer: de Calathea Ornata, met decoratieve ronde en
+      brede bladeren en breed gevlekte bladnerven. Opvallend aan dit type
+      Calathea zijn de witte bladnerven, die op de neutraal groene basis extra
+      opvallen.
 order: 1
 ---
 
