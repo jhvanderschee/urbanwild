@@ -3,7 +3,7 @@ title: ALOCASIA
 image: /uploads/20151012609-Alocasia Cucullata.jpg
 slider:
   - title: Zuiverende planten voor gezond leven
-    image: /img/slide.jpg
+    image: /uploads/kas-jmplants-1.jpg
     text_color: dark
     button_text: Bekijk de collectie
     button_link: /collectie
