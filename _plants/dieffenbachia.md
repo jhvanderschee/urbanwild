@@ -17,7 +17,7 @@ slider:
     text_color: dark
     button_text: Bekijk de collectie
     button_link: /collectie
-description_html: <p>Met een Dieffenbachia in huis zuiver je meteen de lucht!</p><p>...</p>
+description_html: <p>Met een Dieffenbachia in huis zuiver je meteen de lucht!</p>
 origin: Zuid- en Midden-Amerika
 variants:
   - title: REFLECTOR
@@ -35,7 +35,7 @@ variants:
     image: /uploads/20151012618-Dieffenbachia Vesuvius.jpg
     description_html: >-
       <p>De Dieffenbachia Vesuvius is een van de lichter gekleurde varianten.
-      Het licht groene blad heeft heel veel schakeringen.</p><p>test</p>
+      Het licht groene blad heeft heel veel schakeringen.</p>
   - title: GREEN MAGIC
     image: /uploads/20151012563-Dieffenbachia Green Magic.jpg
     description_html: >-
