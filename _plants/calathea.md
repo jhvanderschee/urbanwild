@@ -68,6 +68,14 @@ variants:
       Een productiefoutje van Moeder Natuur, die vlekken op het blad? Nee, dat
       is nu juist het opvallende motief van de Calathea Insignis! Aan de
       onderkant is het blad juist weer frisgroen, met diep donkere spikkels.
+  - title: Makoyana
+    image: /uploads/calathea--makoyana.jpg
+    description: >-
+      Een van de meest sprekende Calathea’s die er zijn, met zilvergroen tot
+      olijfgroene bladeren die bijna rond zijn. Wie goed kijkt, zie fijne,
+      donkergroene lijntjes aan weerszijden van de middennerf.  Ook de onderkant
+      van het blad is het bestuderen waard: die is zilverwit met rood-paarse
+      vlekken.
 order: 1
 ---
 
