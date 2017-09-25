@@ -7,11 +7,11 @@ slider:
     text_color: light
     button_text: Bekijk onze collectie Alocasia
     button_link:
-  - title: Bekijk onze monsterlijk mooie collectie
+  - title: Wie wil deze beauty nou niet?
     image: /uploads/slider-monstera-bont.jpg
-    text_color: light
-    button_text:
-    button_link:
+    text_color: dark
+    button_text: Bekijk onze monsterlijk mooie collectie
+    button_link: /collectie
   - title: Zuiverende planten voor gezond leven
     image: /img/slide.jpg
     text_color: dark
