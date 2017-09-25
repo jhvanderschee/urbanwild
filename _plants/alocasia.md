@@ -55,6 +55,12 @@ variants:
       huiskamers te pronken. De bladeren zijn groot met een lichte karteling.
       Als je niet oppast, dan groeit, met de juiste verzorging, deze Olifantsoor
       zo je kamer uit!
+  - title: Pink Dragon
+    image: /uploads/alocasia-pink-dragon.jpg
+    description: >-
+      Gevaarlijk mooi, deze Pink Dragon. Hij lijkt sterk op de Alocasia Dwarf
+      Amazonica, maar heeft prachtige roze bladstelen en een ronder blad. Niet
+      bepaald een draak van een plant te noemen.
 order: 1
 ---
 
