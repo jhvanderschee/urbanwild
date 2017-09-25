@@ -24,7 +24,7 @@ description: >-
   ideale plant voor iedereen die niet veel tijd kwijt wil aan de verzorging. Een
   probleemloze groei is verzekerd. En je hebt meteen gezonde lucht in huis, want
   de bladeren halen schadelijke stoffen uit de lucht.
-origin: Mexico / Panama
+origin: Midden Amerika
 variants:
   - title: MONSTERA
     image: /uploads/20151012499-Monstera 180.jpg
