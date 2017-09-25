@@ -62,11 +62,11 @@ variants:
       De Calathea Orbifolia herken je meteen aan het bijzondere blad: breed en
       rond, met bladnerven die heel opvallende grote vlekken vertonen. En het
       lijkt wel of bij elke plant de kleurtekening weer anders is!
-  - title: Insignis
+  - title: Insigne
     image: /uploads/calathea-insigne.jpg
     description: >-
       Een productiefoutje van Moeder Natuur, die vlekken op het blad? Nee, dat
-      is nu juist het opvallende motief van de Calathea Insignis! Aan de
+      is nu juist het opvallende motief van de Calathea Insigne! Aan de
       onderkant is het blad juist weer frisgroen, met diep donkere spikkels.
   - title: Makoyana
     image: /uploads/calathea--makoyana.jpg
