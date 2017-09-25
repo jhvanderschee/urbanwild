@@ -22,7 +22,7 @@ origin: Zuid- en Midden-Amerika
 variants:
   - title: REFLECTOR
     image: /uploads/20151012568-Dieffenbachia Reflector.jpg
-    description: >-
+    description_html: >-
       Het is een plant die zich thuis voelt in de tropen van Zuid- en
       Midden-Amerika, maar ook in de Europese huiskamers: de Dieffenbachia.
       Vooral de bijzondere tekening van de bladeren maakt de Dieffenbachia zo
@@ -33,12 +33,12 @@ variants:
       fraai samen in het blad.
   - title: VESUVIUS
     image: /uploads/20151012618-Dieffenbachia Vesuvius.jpg
-    description: >-
+    description_html: >-
       De Dieffenbachia Vesuvius is een van de lichter gekleurde varianten. Het
       licht groene blad heeft heel veel schakeringen.
   - title: GREEN MAGIC
     image: /uploads/20151012563-Dieffenbachia Green Magic.jpg
-    description: >-
+    description_html: >-
       Niet voor niets heet deze variant Green Magic: het lijkt wel of er heel
       creatief een witte streep in het blad is getrokken!
 order: 1
