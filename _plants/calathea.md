@@ -56,6 +56,12 @@ variants:
       bladeren zijn afwisselend roze, wit en groen en dat maakt deze Calathea
       altijd weer anders. Vooral met kunstlicht kan een mooie roze gloed
       ontstaan.
+  - title: Orbifolia
+    image: /uploads/calathea-orbifolia.jpg
+    description: >-
+      De Calathea Orbifolia herken je meteen aan het bijzondere blad: breed en
+      rond, met bladnerven die heel opvallende grote vlekken vertonen. En het
+      lijkt wel of bij elke plant de kleurtekening weer anders is!
 order: 1
 ---
 
