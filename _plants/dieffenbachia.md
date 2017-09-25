@@ -17,7 +17,7 @@ slider:
     text_color: dark
     button_text: Bekijk de collectie
     button_link: /collectie
-description: Met een Dieffenbachia in huis zuiver je meteen de lucht!
+description_html: Met een Dieffenbachia in huis zuiver je meteen de lucht!
 origin: Zuid- en Midden-Amerika
 variants:
   - title: REFLECTOR
