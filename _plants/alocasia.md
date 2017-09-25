@@ -48,14 +48,14 @@ variants:
       te meer. Zet ‘m in de huiskamer en je hebt er een groene eyecatcher bij.
       Hoewel, groen… het donkergroene blad wordt doorsneden door bijna witte
       bladnerven. Decoratief? Reken maar!
-  - title: Portadora
+  - title: PORTADORA
     image: /uploads/alocasia-portadora.jpg
     description: >-
       Wie kent deze soort niet? De Alocasia Portadora staat al in vele
       huiskamers te pronken. De bladeren zijn groot met een lichte karteling.
       Als je niet oppast, dan groeit, met de juiste verzorging, deze Olifantsoor
       zo je kamer uit!
-  - title: Pink Dragon
+  - title: PINK DRAGON
     image: /uploads/alocasia-pink-dragon.jpg
     description: >-
       Gevaarlijk mooi, deze Pink Dragon. Hij lijkt sterk op de Alocasia Dwarf
