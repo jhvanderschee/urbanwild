@@ -50,7 +50,11 @@ variants:
       bladnerven. Decoratief? Reken maar!
   - title: Portadora
     image: /uploads/alocasia-portadora.jpg
-    description:
+    description: >-
+      Wie kent deze soort niet? De Alocasia Portadora staat al in vele
+      huiskamers te pronken. De bladeren zijn groot met een lichte karteling.
+      Als je niet oppast, dan groeit, met de juiste verzorging, deze Olifantsoor
+      zo je kamer uit!
 order: 1
 ---
 
