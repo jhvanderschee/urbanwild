@@ -61,6 +61,13 @@ variants:
       Gevaarlijk mooi, deze Pink Dragon. Hij lijkt sterk op de Alocasia Dwarf
       Amazonica, maar heeft prachtige roze bladstelen en een ronder blad. Niet
       bepaald een draak van een plant te noemen.
+  - title: YUCATAN PRINCESS
+    image: /uploads/alocasia-yucatan-princess.jpg
+    description: >-
+      Princess: zo’n naam past alleen maar bij de mooiste bladplanten uit de
+      jungle. Deze Alocasia springt er in elk interieur uit, door de combinatie
+      van paars-groen blad die hier en daar een zwart accent krijgen. Met recht
+      een Koninklijke Hoogheid!
 order: 1
 ---
 
