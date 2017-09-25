@@ -68,7 +68,7 @@ variants:
       Een productiefoutje van Moeder Natuur, die vlekken op het blad? Nee, dat
       is nu juist het opvallende motief van de Calathea Insignis! Aan de
       onderkant is het blad juist weer frisgroen, met diep donkere spikkels.
-order: 5
+order: 1
 ---
 
 
