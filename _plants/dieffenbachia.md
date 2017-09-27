@@ -24,13 +24,13 @@ variants:
     image: /uploads/20151012568-Dieffenbachia Reflector.jpg
     description_html: >-
       <p>Het is een plant die zich thuis voelt in de tropen van Zuid- en
-      Midden-Amerika, maar ook in de Europese huiskamers: de Dieffenbachia.
-      Vooral de bijzondere tekening van de bladeren maakt de Dieffenbachia zo
-      geliefd. Elke soort heeft weer andere bladeren, met tinten die
-      vari&euml;ren tussen groen in vele tinten, geel en wit. Bovendien haal je
-      meteen gezonde lucht in huis, want de Dieffenbachia is een 100%
-      natuurlijke luchtzuiveraar. Bij de Dieffenbachia Reflector gaan groen en
-      lichtgroen fraai samen in het blad.</p>
+      Midden-Amerika, maar ook in de Europese huiskamers: de
+      Dieffenbachia.</p><p>Vooral de bijzondere tekening van de bladeren maakt
+      de Dieffenbachia zo geliefd. Elke soort heeft weer andere bladeren, met
+      tinten die vari&euml;ren tussen groen in vele tinten, geel en wit.
+      Bovendien haal je meteen gezonde lucht in huis, want de Dieffenbachia is
+      een 100% natuurlijke luchtzuiveraar.</p><p>Bij de Dieffenbachia Reflector
+      gaan groen en lichtgroen fraai samen in het blad.</p>
   - title: VESUVIUS
     image: /uploads/20151012618-Dieffenbachia Vesuvius.jpg
     description_html: >-
