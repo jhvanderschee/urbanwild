@@ -3,12 +3,12 @@ title: MONSTERA
 image: /uploads/20151012499-Monstera 180.jpg
 slider:
   - title: Zuiverende planten voor gezond leven
-    image: /img/slide.jpg
+    image: /uploads/slide-monstera-bont.jpg
     text_color: dark
     button_text: Bekijk de collectie
     button_link: /collectie
   - title: Zuiverende planten voor gezond leven
-    image: /img/slide.jpg
+    image: /img/sliderhome-jmplants-1.png
     text_color: dark
     button_text: Bekijk de collectie
     button_link: /collectie
