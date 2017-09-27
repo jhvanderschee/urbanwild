@@ -4,7 +4,7 @@ layout: collectie
 slider:
   - title: Onze collectie
     image: /uploads/slide-collectie-jmplants-2.jpg
-    text_color: light
+    text_color: dark
     button_text: Bekijk onze Alocasia's
     button_link: /alocasia
   - title: Wie wil deze beauty nou niet?
