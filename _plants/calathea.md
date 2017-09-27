@@ -27,13 +27,13 @@ variants:
       mag gerust exclusief worden genoemd. Het is een plant met bijna
       schilderachtige tekeningen op het blad. De bloemen zijn al even fraai, met
       hun roze tint. Wist je dat je wel 20 weken plezier kunt hebben van de
-      bloemen? De Calathea komt oorspronkelijk uit het oerwoud rond de Amazone
-      in Zuid-Amerika. Groeit daar in de onderste laag van het oerwoud waar veel
-      schaduw is. Mag ook thuis wat meer schaduw hebben. Plant met schitterende
-      tekeningen en vormen op de bladeren.</p><p>Extra bijzonder doordat de
-      plant &lsquo;fluistert&rsquo;: &rsquo;s morgens gaan de bladeren met licht
-      geritsel open, &rsquo;s avonds sluiten ze zich ook weer. Plant die erom
-      bekend staat de lucht te zuiveren.</p>
+      bloemen?</p><p>De Calathea komt oorspronkelijk uit het oerwoud rond de
+      Amazone in Zuid-Amerika. Groeit daar in de onderste laag van het oerwoud
+      waar veel schaduw is. Mag ook thuis wat meer schaduw hebben. Plant met
+      schitterende tekeningen en vormen op de bladeren.</p><p>Extra bijzonder
+      doordat de plant &lsquo;fluistert&rsquo;: &rsquo;s morgens gaan de
+      bladeren met licht geritsel open, &rsquo;s avonds sluiten ze zich ook
+      weer. Plant die erom bekend staat de lucht te zuiveren.</p>
   - title: Warscewiczii
     image: /uploads/20151012491 Calathea- Warscewiczii.jpg
     description_html: >-
