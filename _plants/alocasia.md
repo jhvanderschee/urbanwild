@@ -62,8 +62,9 @@ variants:
     image: /uploads/alocasia-pink-dragon.jpg
     description_html: >-
       <p>Gevaarlijk mooi, deze Pink Dragon. Hij lijkt sterk op de Alocasia Dwarf
-      Amazonica, maar heeft prachtige roze bladstelen en een ronder blad. Niet
-      bepaald een draak van een plant te noemen.</p>
+      Amazonica, maar dan met een opvallend verschil. Kijk maar naar de
+      prachtige roze bladstelen en het iets rondere blad. Schuilt er een
+      drakentemmer in je? Haal dan de Pink Dragon in huis als je durft!</p>
   - title: YUCATAN PRINCESS
     image: /uploads/alocasia-yucatan-princess.jpg
     description_html: >-
