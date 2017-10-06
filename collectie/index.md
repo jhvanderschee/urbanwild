@@ -8,15 +8,15 @@ slider:
     button_text: Bekijk onze Alocasia's
     button_link: /alocasia
   - title: Wie wil deze beauty nou niet?
-    image: /uploads/slide_monstera_mos.jpg
-    text_color: light
+    image: /uploads/slide-Monstera.jpg
+    text_color: dark
     button_text: Bekijk onze monsterlijk mooie collectie
     button_link: /collectie
   - title: Zuiverende planten voor gezond leven
-    image: /img/slide.jpg
+    image: /uploads/slide-Philodendron-Xanadu.jpg
     text_color: dark
-    button_text:
-    button_link:
+    button_text: Bekijk onze collectie
+    button_link: /collectie
 ---
 
 
