@@ -9,7 +9,7 @@ slider:
     button_link: /alocasia
   - title: Wie wil deze beauty nou niet?
     image: /uploads/slide-Monstera.jpg
-    text_color: dark
+    text_color: light
     button_text: Bekijk onze monsterlijk mooie collectie
     button_link: /collectie
   - title: Zuiverende planten voor gezond leven
