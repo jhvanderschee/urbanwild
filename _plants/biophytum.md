@@ -7,7 +7,7 @@ slider:
     text_color: light
     button_text: Bekijk de collectie
     button_link: /collectie
-  - title: Zuiverende planten voor gezond leven
+  - title: Huizen zijn er helemaal wild van
     image: /uploads/slider-over-jmplants.jpg
     text_color: light
     button_text: Bekijk de collectie
