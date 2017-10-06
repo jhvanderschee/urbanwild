@@ -3,7 +3,12 @@ title: BIOPHYTUM
 image: /uploads/20151013750-Biophytum 9cm.jpg
 slider:
   - title: Zuiverende planten voor gezond leven
-    image: /img/slide.jpg
+    image: /uploads/slide-Alocasia-Wentii.jpg
+    text_color: dark
+    button_text: Bekijk de collectie
+    button_link: /collectie
+  - title: Zuiverende planten voor gezond leven
+    image: /uploads/slider-over-jmplants.jpg
     text_color: dark
     button_text: Bekijk de collectie
     button_link: /collectie
@@ -12,12 +17,7 @@ slider:
     text_color: dark
     button_text: Bekijk de collectie
     button_link: /collectie
-  - title: Zuiverende planten voor gezond leven
-    image: /img/slide.jpg
-    text_color: dark
-    button_text: Bekijk de collectie
-    button_link: /collectie
-description_html: De Biophytum Sensitivum lijkt net een minipalm.
+description_html: <p>De Biophytum Sensitivum lijkt net een minipalm.</p>
 origin: Brazilië
 variants:
   - title: SENSITIVUM
