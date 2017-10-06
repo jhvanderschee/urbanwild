@@ -1,17 +1,17 @@
 ---
 title: Collectie
-layout: collectie
+layout: verzorging
 slider:
-  - title: Onze collectie
-    image: /uploads/slide-collectie-jmplants-2.jpg
-    text_color: dark
-    button_text: Bekijk onze Alocasia's
-    button_link: /alocasia
   - title: Wie wil deze beauty nou niet?
     image: /uploads/slide-Monstera.jpg
     text_color: light
     button_text: Bekijk onze monsterlijk mooie collectie
     button_link: /collectie
+  - title: Onze collectie
+    image: /uploads/slide-collectie-jmplants-2.jpg
+    text_color: dark
+    button_text: Bekijk onze Alocasia's
+    button_link: /collectie/alocasia
   - title: Zuiverende planten voor gezond leven
     image: /uploads/slide-Philodendron-Xanadu.jpg
     text_color: dark
