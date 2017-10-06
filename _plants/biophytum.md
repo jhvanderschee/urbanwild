@@ -4,12 +4,12 @@ image: /uploads/20151013750-Biophytum 9cm.jpg
 slider:
   - title: Zuiverende planten voor gezond leven
     image: /uploads/slide-Alocasia-Wentii.jpg
-    text_color: dark
+    text_color: light
     button_text: Bekijk de collectie
     button_link: /collectie
   - title: Zuiverende planten voor gezond leven
     image: /uploads/slider-over-jmplants.jpg
-    text_color: dark
+    text_color: light
     button_text: Bekijk de collectie
     button_link: /collectie
   - title: Zuiverende planten voor gezond leven
