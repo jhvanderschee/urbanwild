@@ -10,12 +10,12 @@ slider:
   - title: Zuiverende planten voor gezond leven
     image: /uploads/slide-Philodendron-Xanadu.jpg
     text_color: dark
-    button_text: Bekijk de collectie
-    button_link: /collectie
-  - title: Zuiverende planten voor gezond leven
+    button_text: Ontdek wat planten jou bieden
+    button_link: '/#luchtzuiverend'
+  - title: Heb jij je jungle al compleet?
     image: /uploads/sliderhome-jmplants-1.jpg
     text_color: light
-    button_text: Bekijk de collectie
+    button_text: Ontdek welke jij nog mist
     button_link: /collectie
 description_html: <p>De Pilodendronfamilie is er &eacute;&eacute;n om niet snel te vergeten!</p>
 origin: Midden en Zuid Amerika
