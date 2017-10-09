@@ -11,7 +11,7 @@ slider:
     image: /uploads/slide-collectie-jmplants-2.jpg
     text_color: dark
     button_text: Bekijk onze Alocasia's
-    button_link: /collectie/alocasia
+    button_link: /collectie/*alocasia
   - title: Zuiverende planten voor gezond leven
     image: /uploads/slide-Philodendron-Xanadu.jpg
     text_color: dark
