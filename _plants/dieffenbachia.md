@@ -3,17 +3,17 @@ title: DIEFFENBACHIA
 image: /uploads/20151012563-Dieffenbachia Green Magic.jpg
 slider:
   - title: Zuiverende planten voor gezond leven
-    image: /img/slide.jpg
+    image: /uploads/slide_dieffenbachia.jpg
     text_color: dark
     button_text: Bekijk de collectie
     button_link: /collectie
-  - title: Zuiverende planten voor gezond leven
-    image: /img/slide.jpg
+  - title: Hou je jungle wild!
+    image: /uploads/slide-Philodendron-Xanadu.jpg
     text_color: dark
-    button_text: Bekijk de collectie
-    button_link: /collectie
-  - title: Zuiverende planten voor gezond leven
-    image: /img/slide.jpg
+    button_text: Bekijk de verzorgingstips
+    button_link: /verzorging
+  - title: Huizen zijn er helemaal wild van!
+    image: /uploads/sliderhome-jmplants-1.jpg
     text_color: dark
     button_text: Bekijk de collectie
     button_link: /collectie
