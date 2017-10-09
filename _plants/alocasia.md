@@ -3,18 +3,18 @@ title: ALOCASIA
 image: /uploads/20151012609-Alocasia Cucullata.jpg
 slider:
   - title: Zuiverende planten voor gezond leven
-    image: /uploads/kas-jmplants-1.jpg
+    image: /uploads/slide-Alocasia-Wentii.jpg
     text_color: dark
     button_text: Bekijk de collectie
     button_link: /collectie
-  - title: Zuiverende planten voor gezond leven
-    image: /img/slide.jpg
+  - title: Hou je jungle wild
+    image: /uploads/slide-Philodendron-Xanadu.jpg
     text_color: dark
-    button_text: Bekijk de collectie
-    button_link: /collectie
-  - title: Zuiverende planten voor gezond leven
-    image: /img/slide.jpg
-    text_color: dark
+    button_text: Bekijk de verzorgingstips
+    button_link: /verzorgingstips
+  - title: Huizen zijn er helemaal wild van!
+    image: /uploads/sliderhome-jmplants-1.jpg
+    text_color: light
     button_text: Bekijk de collectie
     button_link: /collectie
 description_html: <p>De Alocasia wordt ook wel &lsquo;Olifantsoor&rsquo; genoemd.</p>
