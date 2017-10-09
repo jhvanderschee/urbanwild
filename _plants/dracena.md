@@ -5,8 +5,8 @@ slider:
   - title: Zuiverende planten voor gezond leven
     image: /uploads/slide-Alocasia-Wentii.jpg
     text_color: dark
-    button_text: Bekijk de collectie
-    button_link: /collectie
+    button_text: Ontdek wat planten jou bieden
+    button_link: '/#luchtzuiverend'
   - title: Hou je jungle wild!
     image: /uploads/slide-Philodendron-Xanadu.jpg
     text_color: dark
