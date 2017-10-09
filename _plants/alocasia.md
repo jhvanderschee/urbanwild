@@ -11,7 +11,7 @@ slider:
     image: /uploads/slide-Philodendron-Xanadu.jpg
     text_color: dark
     button_text: Bekijk de verzorgingstips
-    button_link: /verzorgingstips
+    button_link: /verzorging
   - title: Huizen zijn er helemaal wild van!
     image: /uploads/sliderhome-jmplants-1.jpg
     text_color: light
