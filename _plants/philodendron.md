@@ -2,19 +2,19 @@
 title: PHILODENDRON
 image: /uploads/20151012592-Philodendron imperial red.jpg
 slider:
+  - title: Hou je jungle wild!
+    image: /uploads/slide-Monstera.jpg
+    text_color: dark
+    button_text: Bekijk de verzorgingstips
+    button_link: /verzorging
   - title: Zuiverende planten voor gezond leven
-    image: /img/slide.jpg
+    image: /uploads/slide-Philodendron-Xanadu.jpg
     text_color: dark
     button_text: Bekijk de collectie
     button_link: /collectie
   - title: Zuiverende planten voor gezond leven
-    image: /img/slide.jpg
-    text_color: dark
-    button_text: Bekijk de collectie
-    button_link: /collectie
-  - title: Zuiverende planten voor gezond leven
-    image: /img/slide.jpg
-    text_color: dark
+    image: /uploads/sliderhome-jmplants-1.jpg
+    text_color: light
     button_text: Bekijk de collectie
     button_link: /collectie
 description_html: <p>De Pilodendronfamilie is er &eacute;&eacute;n om niet snel te vergeten!</p>
