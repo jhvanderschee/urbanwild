@@ -15,8 +15,8 @@ slider:
   - title: Zuiverende planten voor gezond leven
     image: /uploads/slide-Philodendron-Xanadu.jpg
     text_color: dark
-    button_text: Bekijk onze collectie
-    button_link: /collectie
+    button_text: Bekijk wat planten jou bieden
+    button_link: '/#luchtzuiverend'
 ---
 
 
