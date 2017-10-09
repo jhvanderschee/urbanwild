@@ -15,7 +15,7 @@ slider:
   - title: Heb jij je jungle al compleet?
     image: /uploads/slide-Philodendron-Xanadu.jpg
     text_color: dark
-    button_text: Bekijk welke jij nog mist
+    button_text: Ontdek welke jij nog mist
     button_link: /collectie
 description_html: >-
   <p>Kijk uit voor de Monstera, met z&rsquo;n monsterlijk grote bladeren met
