@@ -7,11 +7,11 @@ slider:
     text_color: light
     button_text: Bekijk de collectie
     button_link: /collectie
-  - title: Huizen zijn er helemaal wild van
-    image: /uploads/slider-over-jmplants.jpg
+  - title: Hou je jungle wild
+    image: /uploads/slide-Philodendron-Xanadu.jpg
     text_color: light
-    button_text: Bekijk de collectie
-    button_link: /collectie
+    button_text: Bekijk de verzorgingstips
+    button_link: /verzorging
   - title: Huizen zijn er helemaal wild van!
     image: /uploads/sliderhome-jmplants-1.jpg
     text_color: light
