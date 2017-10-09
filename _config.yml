@@ -17,6 +17,7 @@ collections:
     permalink: collectie/:title
 
 title: Urban Wild
+permalink: /:title
 
 text_colors: 
   - dark
