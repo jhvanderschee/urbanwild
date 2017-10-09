@@ -1,6 +1,6 @@
 ---
 title: Collectie
-layout: verzorging
+layout: collectie
 slider:
   - title: Wie wil deze beauty nou niet?
     image: /uploads/slide-Monstera.jpg
