@@ -3,18 +3,18 @@ title: CALATHEA
 image: /uploads/20151012491 Calathea- Warscewiczii.jpg
 slider:
   - title: Zuiverende planten voor gezond leven
-    image: /img/slide.jpg
+    image: /uploads/slide-Alocasia-Wentii.jpg
     text_color: dark
     button_text: Bekijk de collectie
     button_link: /collectie
-  - title: Zuiverende planten voor gezond leven
-    image: /img/slide.jpg
+  - title: Hou je jungle wild
+    image: /uploads/slide-Philodendron-Xanadu.jpg
     text_color: dark
-    button_text: Bekijk de collectie
-    button_link: /collectie
-  - title: Zuiverende planten voor gezond leven
-    image: /img/slide.jpg
-    text_color: dark
+    button_text: Bekijk de verzorgingstips
+    button_link: /verzorging
+  - title: Huizen zijn er helemaal wild van!
+    image: /uploads/sliderhome-jmplants-1.jpg
+    text_color: light
     button_text: Bekijk de collectie
     button_link: /collectie
 description_html: <p>De Calathea staat erom bekend dat de bladeren lijken te 'fluisteren'.</p>
