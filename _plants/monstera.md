@@ -2,20 +2,20 @@
 title: MONSTERA
 image: /uploads/20151012499-Monstera 180.jpg
 slider:
-  - title: Zuiverende planten voor gezond leven
-    image: /uploads/slide-monstera-bont.jpg
+  - title: Hou je jungle wild!
+    image: /uploads/slide-Monstera.jpg
     text_color: dark
-    button_text: Bekijk de collectie
-    button_link: /collectie
+    button_text: Bekijk de verzorgingstips
+    button_link: /verzorging
   - title: Zuiverende planten voor gezond leven
     image: /img/sliderhome-jmplants-1.png
-    text_color: dark
+    text_color: light
     button_text: Bekijk de collectie
     button_link: /collectie
-  - title: Zuiverende planten voor gezond leven
-    image: /img/slide.jpg
+  - title: Heb jij je jungle al compleet?
+    image: /uploads/slide-Philodendron-Xanadu.jpg
     text_color: dark
-    button_text: Bekijk de collectie
+    button_text: Bekijk welke jij nog mist
     button_link: /collectie
 description_html: >-
   <p>Kijk uit voor de Monstera, met z&rsquo;n monsterlijk grote bladeren met
