@@ -8,7 +8,7 @@ slider:
     button_text: Bekijk de verzorgingstips
     button_link: /verzorging
   - title: Zuiverende planten voor gezond leven
-    image: /img/sliderhome-jmplants-1.png
+    image: /img/sliderhome-jmplants-1.jpg
     text_color: light
     button_text: Bekijk de collectie
     button_link: /collectie
