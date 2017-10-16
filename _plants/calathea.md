@@ -37,18 +37,18 @@ variants:
   - title: Warscewiczii
     image: /uploads/20151012491 Calathea- Warscewiczii.jpg
     description_html: >-
-      <p>Deze Calathea heeft misschien wel de moeilijkste naam van allemaal,
-      maar het is ook wel een heel aparte. De bladeren zijn zacht, bijna
-      fluweelachtig. En niet voor niets heeft deze vari&euml;teit de bijnaam van
-      &lsquo;pauwenplant&rsquo;: onderaan de bladeren vind je een heel
-      decoratieve paarse kleur, gecombineerd met diepgroen aan de
+      <p>Deze Calathea Warscewiczii heeft misschien wel de moeilijkste naam van
+      allemaal, maar het is ook wel een heel aparte. De bladeren zijn zacht,
+      bijna fluweelachtig. En niet voor niets heeft deze vari&euml;teit de
+      bijnaam van &lsquo;pauwenplant&rsquo;: onderaan de bladeren vind je een
+      heel decoratieve paarse kleur, gecombineerd met diepgroen aan de
       oppervlakte.</p>
   - title: Rufibarba
     image: /uploads/20151012530-Calathea Rufibarba.jpg
     description_html: >-
-      <p>Opvallend bij deze Calathea zijn de lange, smalle bladeren met een
-      opvallende golfachtige rand. Ze zijn egaal gekleurd, lichtgroen tot
-      grijsgroen van de bovenkant en dieprood van onderen.</p>
+      <p>Opvallend bij deze Calathea Rufibarrba zijn de lange, smalle bladeren
+      met een opvallende golfachtige rand. Ze zijn egaal gekleurd, lichtgroen
+      tot grijsgroen van de bovenkant en dieprood van onderen.</p>
   - title: Stromanthe Sanguinea Triostar
     image: /uploads/20151012521-Calathea Stromanthe sanguinea Triostar.jpg
     description_html: >-
@@ -73,17 +73,17 @@ variants:
     image: /uploads/calathea--makoyana.jpg
     description_html: >-
       <p>Een van de meest sprekende Calathea&rsquo;s die er zijn, met
-      zilvergroen tot olijfgroene bladeren die bijna rond zijn. Wie goed kijkt,
-      zie fijne, donkergroene lijntjes aan weerszijden van de middennerf. Ook de
-      onderkant van het blad is het bestuderen waard: die is zilverwit met
-      rood-paarse vlekken.</p>
+      zilvergroen tot olijfgroene bladeren die bijna rond zijn: de Makoyana. Wie
+      goed kijkt, zie fijne, donkergroene lijntjes aan weerszijden van de
+      middennerf. Ook de onderkant van het blad is het bestuderen waard: die is
+      zilverwit met rood-paarse vlekken.</p>
   - title: Sanderiana Ornata
     image: /uploads/calathea-sanderiana-ornata.jpg
     description_html: >-
-      <p>Blikvanger in elke kamer: de Calathea Ornata, met decoratieve ronde en
-      brede bladeren en breed gevlekte bladnerven. Opvallend aan dit type
-      Calathea zijn de witte bladnerven, die op de neutraal groene basis extra
-      opvallen.</p>
+      <p>Blikvanger in elke kamer: de Calathea Sanderiana Ornata, met
+      decoratieve ronde en brede bladeren en breed gevlekte bladnerven.
+      Opvallend aan dit type Calathea zijn de witte bladnerven, die op de
+      neutraal groene basis extra opvallen.</p>
 order: 1
 ---
 
