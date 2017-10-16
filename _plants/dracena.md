@@ -23,11 +23,11 @@ variants:
   - title: LEMON LIME
     image: /uploads/20151012624-Draceana Lemon Lime.jpg
     description_html: >-
-      De Dracena Lemon Lime maakt elke kamer bijzonder met schitterende
+      <p>De Dracaena Lemon Lime maakt elke kamer bijzonder met schitterende
       limoenkleuren. Het is een afwisseling van diep en licht groen. Dat zorgt
-      voor een sierlijk effect.
+      voor een sierlijk effect.</p>
 order: 1
 ---
 
 
-De Dracena Lemon Lime is op zijn minst sierlijk te noemen!
+De Dracaena Lemon Lime is op zijn minst sierlijk te noemen!
