@@ -14,7 +14,7 @@ slider:
     button_link: /collectie
   - title: Zuiverende planten voor gezond leven
     image: /uploads/slide-Alocasia-Wentii.jpg
-    text_color: dark
+    text_color: light
     button_text: Bekijk de collectie
     button_link: /collectie
 ---
