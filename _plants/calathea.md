@@ -24,7 +24,7 @@ variants:
     image: /uploads/20151012294- Calathea Bicajoux Gekko- 1 cm.jpg
     description_html: >-
       <p>Is de &lsquo;gewone&rsquo; Calathea al bijzonder, de Calathea Bicajoux
-      mag gerust exclusief worden genoemd. Het is een plant met bijna
+      Gekko mag gerust exclusief worden genoemd. Het is een plant met bijna
       schilderachtige tekeningen op het blad. De bloemen zijn al even fraai, met
       hun roze tint. Wist je dat je wel 20 weken plezier kunt hebben van de
       bloemen?</p><p>De Calathea komt oorspronkelijk uit het oerwoud rond de
@@ -46,7 +46,7 @@ variants:
   - title: Rufibarba
     image: /uploads/20151012530-Calathea Rufibarba.jpg
     description_html: >-
-      <p>Opvallend bij deze Calathea Rufibarrba zijn de lange, smalle bladeren
+      <p>Opvallend bij deze Calathea Rufibarba zijn de lange, smalle bladeren
       met een opvallende golfachtige rand. Ze zijn egaal gekleurd, lichtgroen
       tot grijsgroen van de bovenkant en dieprood van onderen.</p>
   - title: Stromanthe Sanguinea Triostar
