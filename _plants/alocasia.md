@@ -46,10 +46,11 @@ variants:
   - title: DWARF AMAZONICA
     image: /uploads/20151012550-Alocasia Dwarf Amazonica_website.jpg
     description_html: >-
-      <p>Z&rsquo;n bijnaam is niet vriendelijk: de skeletplant! Maar z&rsquo;n
-      uitstraling des te meer. Zet &lsquo;m in de huiskamer en je hebt er een
-      groene eyecatcher bij. Hoewel, groen&hellip; het donkergroene blad wordt
-      doorsneden door bijna witte bladnerven. Decoratief? Reken maar!</p>
+      <p>Z&rsquo;n bijnaam is niet vriendelijk: de skeletplant! Maar de
+      uitstraling van de Alocasia Dwarf Amazonica des te meer. Zet &lsquo;m in
+      de huiskamer en je hebt er een groene eyecatcher bij. Hoewel,
+      groen&hellip; het donkergroene blad wordt doorsneden door bijna witte
+      bladnerven. Decoratief? Reken maar!</p>
   - title: PORTADORA
     image: /uploads/alocasia-portadora.jpg
     description_html: >-
