@@ -28,7 +28,7 @@
               {% for subitem in item.variants %}
                 {% if forloop.index == 1 %}{{ forloop.length }} variants{% endif %}
               {% endfor %}&nbsp;
-              <div class="plant" style="background: white url('{{ item.image }}') center center no-repeat; background-size: contain;"></div>
+              <div class="plant" style="background: white url('//images.weserv.nl/?url=urban-wild.com{{ item.image }}&w=800&h=800&t=fit') center center no-repeat; background-size: contain;"></div>
               <div class="description">{{ item.description }}</div>
             </div>
           {% endfor %}
