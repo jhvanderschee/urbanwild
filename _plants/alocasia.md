@@ -28,12 +28,12 @@ variants:
       &lsquo;Olifantsoor&rsquo; heet. En je snapt meteen waarom: het is een
       plant met forse bladeren, die een beetje doen denken aan de oren van een
       olifant. Daarmee is het een pracht van een plant als je flink de ruimte
-      hebt in een kamer. De Alocasia Wentii spreekt qua blad nog het meest tot
-      de verbeelding van een olifantsoor. Hij trekt meteen bewonderende blikken
-      in de kamer met zijn diep donkergroene, grote bladeren. En terecht!
-      Vergeet niet dat de Alocasia uit het tropische - en dus natte - oerwoud
-      komt en dat de plant veel water nodig heeft. Dan kun je er lang van
-      genieten, want de verzorging is eenvoudig.</p>
+      hebt in een kamer.</p><p>De Alocasia Wentii spreekt qua blad nog het meest
+      tot de verbeelding van een olifantsoor. Hij trekt meteen bewonderende
+      blikken in de kamer met zijn diep donkergroene, grote bladeren. En
+      terecht! Vergeet niet dat de Alocasia uit het tropische - en dus natte -
+      oerwoud komt en dat de plant veel water nodig heeft. Dan kun je er lang
+      van genieten, want de verzorging is eenvoudig.</p>
   - title: CUCULLATA
     image: /uploads/20151012609-Alocasia Cucullata.jpg
     description_html: >-
@@ -46,10 +46,11 @@ variants:
   - title: DWARF AMAZONICA
     image: /uploads/20151012550-Alocasia Dwarf Amazonica_website.jpg
     description_html: >-
-      <p>Z&rsquo;n bijnaam is niet vriendelijk: de skeletplant! Maar z&rsquo;n
-      uitstraling des te meer. Zet &lsquo;m in de huiskamer en je hebt er een
-      groene eyecatcher bij. Hoewel, groen&hellip; het donkergroene blad wordt
-      doorsneden door bijna witte bladnerven. Decoratief? Reken maar!</p>
+      <p>Z&rsquo;n bijnaam is niet vriendelijk: de skeletplant! Maar de
+      uitstraling van de Alocasia Dwarf Amazonica des te meer. Zet &lsquo;m in
+      de huiskamer en je hebt er een groene eyecatcher bij. Hoewel,
+      groen&hellip; het donkergroene blad wordt doorsneden door bijna witte
+      bladnerven. Decoratief? Reken maar!</p>
   - title: PORTADORA
     image: /uploads/alocasia-portadora.jpg
     description_html: >-

@@ -1,5 +1,5 @@
 ---
-title: DRACENA
+title: DRACAENA
 image: /uploads/20151012624-Draceana Lemon Lime.jpg
 slider:
   - title: Zuiverende planten voor gezond leven
@@ -17,17 +17,17 @@ slider:
     text_color: light
     button_text: Bekijk de collectie
     button_link: /collectie
-description_html: <p>De Dracena Lemon Lime is op zijn minst sierlijk te noemen!</p>
+description_html: <p>De Dracaena Lemon Lime is op zijn minst sierlijk te noemen!</p>
 origin: West Afrika
 variants:
   - title: LEMON LIME
     image: /uploads/20151012624-Draceana Lemon Lime.jpg
     description_html: >-
-      De Dracena Lemon Lime maakt elke kamer bijzonder met schitterende
+      <p>De Dracaena Lemon Lime maakt elke kamer bijzonder met schitterende
       limoenkleuren. Het is een afwisseling van diep en licht groen. Dat zorgt
-      voor een sierlijk effect.
+      voor een sierlijk effect.</p>
 order: 1
 ---
 
 
-De Dracena Lemon Lime is op zijn minst sierlijk te noemen!
+De Dracaena Lemon Lime is op zijn minst sierlijk te noemen!

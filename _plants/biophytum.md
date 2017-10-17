@@ -9,7 +9,7 @@ slider:
     button_link: '/#luchtzuiverend'
   - title: Hou je jungle wild
     image: /uploads/slide-Philodendron-Xanadu.jpg
-    text_color: light
+    text_color: dark
     button_text: Bekijk de verzorgingstips
     button_link: /verzorging
   - title: Huizen zijn er helemaal wild van!
