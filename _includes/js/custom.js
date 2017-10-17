@@ -163,11 +163,12 @@ $( document ).ready(function() {
         setTimeout(delayupdate,500)
 	});
 	
-	$(".smallplant").click(function() {
-		$(".bigplant").css('background-image', $(this).css('background-image'));
-		$('#description').html($(this).attr('description'));
-		$('#variantname').html($(this).attr('title'));
-	});
-
     $(window).resize();
 });
+
+function toggledescription(el, num) {
+	$(".bigplant").css('background-image', $(el).css('background-image'));
+	$('#descriptions .description').hide();
+	$('#descriptions .description:nth-child('+num+')').show();
+	$('#variantname').html($(el).attr('title'));
+}
