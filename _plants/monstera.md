@@ -44,6 +44,13 @@ variants:
       aanleunstok prima staande. En toch is het een echte Monstera. Mooi door
       z'n verwilderde uitstraling. En apart door het wijd uiteenvallende
       blad!<br />&nbsp;</p>
+  - title: MONSTERA VARIEGATA
+    image: /uploads/Monstera _variegata.jpg
+    description_html: >-
+      <p>Het is het creatieve lid van de familie Monstera, de Variegata.
+      Eigenzinnig en onderscheidend. Want waarom moet een blad van een plant
+      altijd maar groen zijn? Van de Variegata mag er ook gerust een streepje
+      wit door. Opvallend!</p>
 order: 1
 ---
 
