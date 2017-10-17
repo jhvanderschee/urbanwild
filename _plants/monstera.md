@@ -37,6 +37,13 @@ variants:
       iedereen die niet veel tijd kwijt wil aan de verzorging. Een probleemloze
       groei is verzekerd. En je hebt meteen gezonde lucht in huis, want de
       bladeren halen schadelijke stoffen uit de lucht.</p>
+  - title: MONSTERA DELICIOSA
+    image: /uploads/Monstera- Deliciosa.jpg
+    description_html: >-
+      <p>Da's een bijzondere Monstera! De Deliciosa houdt zich ook zonder
+      aanleunstok prima staande. En toch is het een echte Monstera. Mooi door
+      z'n verwilderde uitstraling. En apart door het wijd uiteenvallende
+      blad!<br />&nbsp;</p>
 order: 1
 ---
 
