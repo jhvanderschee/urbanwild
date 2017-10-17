@@ -16,8 +16,8 @@
         <div class="row">
             <div class="col-lg-6 col-md-6" style="overflow: auto;">
                 <h1 class="visible-xs visible-sm" style="font-size: 22px; text-align: left; margin-top: 0; margin-bottom: 20px;">{{ page.title }}</h1>
-                <div class="bigplant" style="background: white url('{% for item in page.variants %}{% if forloop.index == 1 %}//images.weserv.nl/?url=urban-wild.com{{ item.image }}&w=800&h=800&t=fit{% endif %}{% endfor %}') center center no-repeat; background-size: contain;"></div>
-                {% for item in page.variants %}<div class="smallplant" style="background: white url('//images.weserv.nl/?url=urban-wild.com{{ item.image }}&w=800&h=800&t=fit') center center no-repeat; background-size: contain;" title="{{ item.title }}" onclick="toggledescription(this,{{ forloop.index }})"></div>{% endfor %}
+                <div class="bigplant" style="background: white url('{% for item in page.variants %}{% if forloop.index == 1 %}//images.weserv.nl/?url=urban-wild.com{{ item.image | replace:' ','%20' }}&w=800&h=800&t=fit{% endif %}{% endfor %}') center center no-repeat; background-size: contain;"></div>
+                {% for item in page.variants %}<div class="smallplant" style="background: white url('//images.weserv.nl/?url=urban-wild.com{{ item.image | replace:' ','%20' }}&w=800&h=800&t=fit') center center no-repeat; background-size: contain;" title="{{ item.title }}" onclick="toggledescription(this,{{ forloop.index }})"></div>{% endfor %}
             </div>
             <div class="col-lg-6 col-md-6 text-left">
                 <div style="margin-left: -15px; width: 270px; position: relative;"><div class="square"><div style="text-align: center;">
