@@ -1,6 +1,6 @@
 ---
 title: Overpoten
-caption: Tijdig
+caption: Tijdig overpoten
 image: /img/brightness.svg
 ---
 
