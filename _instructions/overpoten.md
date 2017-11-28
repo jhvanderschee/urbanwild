@@ -1,7 +1,7 @@
 ---
 title: Overpoten
 caption: Tijdig overpoten
-image: /img/brightness.svg
+image: /img/overpoten.svg
 ---
 
 
